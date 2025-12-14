@@ -1,0 +1,11 @@
+clothing： brown oversized jacket with fluffy collar (product), black fitted ribbed knit top, dark wash high-waisted skinny jeans, black chunky-soled ankle boots.
+
+background： Warm light grey seamless studio background.
+
+model_pose ： Model stands with a confident and slightly playful expression, body angled slightly to the left, left hand casually resting on her hip, right hand gently tucked into the jacket's front pocket. Her weight is shifted to her right leg, with the left leg slightly bent and relaxed, showcasing the jacket's oversized drape and the full outfit.
+
+Camera Position: Eye-level, full body shot.
+
+Composition： Model centered, filling approximately 65-70% of the vertical frame, with balanced negative space around her to emphasize the outfit and product details.
+
+Camera Setting： Aperture: f/9, Shutter Speed: 1/160s, ISO: 100, White Balance: Daylight.

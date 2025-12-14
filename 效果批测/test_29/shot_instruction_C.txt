@@ -1,0 +1,11 @@
+clothing：Black slim-fit turtleneck sweater, dark grey tailored straight-leg wool trousers, black leather ankle boots with a slight heel.
+
+background：Seamless warm grey backdrop with a very subtle, fine plaster texture, creating a continuous studio floor. Soft, even ambient lighting on the background.
+
+model_pose ：Model stands facing slightly to her left (our right), body angled about 15-20 degrees from the camera. Her head is turned towards the camera, maintaining a calm, confident expression. Her left hand is casually tucked into the pocket of her trousers. Her right hand is gently resting on the side seam of the jacket, subtly highlighting the texture and fit. Weight is primarily on her back leg, with the front leg slightly relaxed.
+
+Camera Position: Eye-level, approximately 5-6 feet from the model.
+
+Composition：Full-body shot. The model is positioned slightly off-center to the left, following the rule of thirds. Ample negative space above and to the right of the model. The entire jacket, from the hood to the hem, is clearly visible.
+
+Camera Setting：Aperture: f/9, ISO: 100, Shutter Speed: 1/160s, White Balance: Custom (measured with a grey card), Lens: 100mm.

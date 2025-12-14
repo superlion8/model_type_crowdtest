@@ -1,0 +1,11 @@
+clothing：Black leather jacket with shearling collar (product), plain black crew-neck T-shirt, dark wash straight-leg jeans, black leather combat boots.
+
+background：Dark grey seamless paper background, evenly lit to create a clean, modern aesthetic without harsh shadows.
+
+model_pose ：Model standing, facing slightly to the left (viewer's right), head turned to look directly at the camera with a confident, relaxed expression. One hand casually tucked into the front pocket of the jeans, the other arm bent slightly at the elbow with the hand resting naturally by the hip, showcasing the jacket's silhouette. Shoulders slightly relaxed.
+
+Camera Position: Eye-level, full body shot. The camera should be positioned to capture the model from head to toe, with a slight amount of headroom and foot room.
+
+Composition：Model centered in the frame, occupying roughly the middle vertical third. The frame should allow for some negative space above the head and below the feet, maintaining visual balance. Ensure the jacket is the focal point.
+
+Camera Setting： Aperture: f/9, Shutter Speed: 1/160s, ISO: 100, White Balance: Studio Flash (or custom set to 5600K). Lighting: A large softbox as the main light positioned slightly to the model's front-right, and a fill light or reflector on the left to soften shadows.

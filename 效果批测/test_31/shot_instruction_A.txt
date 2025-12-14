@@ -1,0 +1,11 @@
+clothing：Patterned knit sweater (the product item), tailored dark brown wide-leg trousers, dark brown leather loafers, minimalist gold hoop earrings.
+
+background：Seamless, warm light gray studio background, evenly lit to create a soft, clean aesthetic.
+
+model_pose ：Model stands facing slightly left of the camera, head turned towards the camera with a soft, confident gaze. One hand casually tucked into the front pocket of the trousers, the other arm relaxed by the side. Body weight slightly shifted to one leg, creating a subtle curve.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model.
+
+Composition：Full body shot, model centered, with adequate negative space above and below, following the rule of thirds for visual balance. The sweater is the focal point.
+
+Camera Setting：Aperture: f/9, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom (calibrated to studio lighting), Lens: 85mm prime lens.

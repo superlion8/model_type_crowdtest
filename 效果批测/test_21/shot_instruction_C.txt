@@ -1,0 +1,11 @@
+clothing：A black ribbed knit turtleneck, tailored charcoal grey wool trousers with a relaxed straight leg, and black leather Chelsea boots. Minimalist silver hoop earrings.
+
+background：A dark charcoal grey concrete wall with subtle texture, providing a modern and sophisticated backdrop without distraction.
+
+model_pose ：Model stands confidently, facing slightly to the left (viewer's right), with her head turned back towards the camera, maintaining a cool, direct gaze. One hand is casually slipped into the jacket's left pocket, while the other arm hangs relaxed at her side. The jacket is left unbuttoned, allowing a glimpse of the turtleneck underneath, showcasing its drape and texture.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model.
+
+Composition：Full body shot, with the model centered in the frame. Ample negative space above and to the sides to emphasize the clothing and overall styling. The model's eyes align with the upper third of the frame.
+
+Camera Setting：Aperture: f/9. ISO: 100. Shutter Speed: 1/160s. White Balance: 5500K (Daylight/Flash). Focus on the model's eyes and the jacket's texture.

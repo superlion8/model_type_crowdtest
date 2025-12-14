@@ -1,0 +1,9 @@
+clothing：Burgundy textured jacket (product), black high-neck long-sleeve top, tailored black wide-leg trousers, black pointed-toe ankle boots.
+
+model_pose ：Model stands confidently in a relaxed posture, facing slightly towards the camera (e.g., 3/4 view). One hand casually rests in a trouser pocket, while the other arm hangs naturally or gently holds the jacket lapel. A calm, direct gaze at the camera.
+
+Camera Position: Eye-level, full-body shot of the model, positioned to capture the entire outfit.
+
+Composition：Model centered or slightly to one side, allowing the natural light and shadow patterns from the background to frame her subtly. Ensure the window blind shadow is visible on the wall behind the model, adding depth without distracting from the product.
+
+Camera Setting：Natural daylight, utilizing the existing light and shadow from the background. Aperture f/4.0-f/5.6 for a sharp model and a softly defined background. Shutter speed 1/160s. ISO 200-400. White Balance set to daylight or custom to enhance the warm, natural light.

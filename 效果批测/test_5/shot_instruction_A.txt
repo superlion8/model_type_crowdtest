@@ -1,0 +1,11 @@
+clothing：Model wears the navy blue casual jacket (product), paired with a clean white crew-neck t-shirt underneath, dark wash slim-fit jeans, and white minimalist sneakers.
+
+background：Light grey seamless studio background, clean and uncluttered.
+
+model_pose ：Model stands full body, facing slightly to the left, head turned towards the camera with a natural, confident expression. One hand is casually placed in the front pocket of the jeans, the other arm relaxed by the side. The jacket is zipped up about two-thirds of the way, subtly revealing the white t-shirt. Weight is subtly shifted to one leg, conveying a relaxed posture.
+
+Camera Position: Eye-level with the model, positioned straight-on.
+
+Composition：Full body shot of the model, centered in the frame. Ample headroom and foot space are maintained, ensuring the entire outfit and model are clearly visible. The model occupies approximately 70-75% of the vertical frame.
+
+Camera Setting：Aperture: f/9; ISO: 100; Shutter Speed: 1/160s. Lighting: Even, soft studio lighting from two large softboxes positioned slightly in front and to the sides of the model, creating subtle, controlled shadows to define the garment's form and texture.

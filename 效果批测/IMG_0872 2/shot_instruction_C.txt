@@ -1,0 +1,17 @@
+clothing：
+A fitted black long-sleeved turtleneck top and sleek black leather ankle boots. A single, simple silver ring on one hand as the only accessory.
+
+background：
+A seamless, solid light grey paper backdrop.
+
+model_pose ：
+The model stands tall and relaxed, with a slight turn (e.g., 15-20 degrees) to the side. One hand gently rests on the hip, subtly highlighting the skirt's waistline and drape. The other arm hangs naturally at the side. The gaze is soft and direct, slightly off-camera, maintaining an elegant and contemplative expression. The pose should emphasize the skirt's comfortable fit and material texture.
+
+Camera Position:
+Eye-level, straight on, approximately 8-10 feet from the model, capturing a full body shot.
+
+Composition：
+Full body shot, ensuring the entire outfit is visible with balanced negative space above the head and around the sides. The model should be centered or slightly off-center for a dynamic yet clean composition.
+
+Camera Setting：
+Aperture: f/9. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom (set for studio strobes, typically 5500K). Lighting: A large octabox placed as the key light slightly above and to the left of the camera, and a large softbox as a fill light from the right, creating soft, even illumination that accentuates the fabric's texture without harsh shadows.

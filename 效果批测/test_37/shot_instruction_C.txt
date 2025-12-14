@@ -1,0 +1,11 @@
+clothing：Dark green washed-effect hoodie (the product itself), charcoal grey wide-leg tailored trousers, black chunky loafers, simple silver chain necklace, small silver hoop earrings.
+
+background：A seamless, warm greige (grey-beige) textured wall with a subtle, soft shadow gradient to add depth, free of any visible studio equipment or harsh reflections.
+
+model_pose ：Model stands relaxed with a confident, slightly edgy expression. Her body is subtly angled about 15 degrees to the left, with her right hand casually tucked into the front pocket of the hoodie. Her left arm hangs loosely by her side. Weight is shifted slightly onto her back leg, with the front leg slightly bent. Her head is tilted slightly down, eyes looking directly into the camera.
+
+Camera Position: Eye-level, straight on, approximately 7 feet (2.1 meters) from the model.
+
+Composition：Full body shot. The model is positioned slightly off-center to the right, adhering to the rule of thirds, with adequate negative space around her to emphasize the outfit. The frame extends from just above her head to just below her feet, ensuring the entire outfit is clearly visible and balanced within the frame.
+
+Camera Setting：Aperture f/9, ISO 100, Shutter Speed 1/160s. White Balance set to Custom (for studio strobes). Lens: 85mm prime lens.

@@ -1,0 +1,11 @@
+clothing：Fine-knit ivory turtleneck sweater, tailored wide-leg trousers in a warm taupe, and classic dark brown leather loafers. Minimalist gold hoop earrings and a delicate gold chain necklace. Model's hair neatly tied back in a low bun.
+
+background：Seamless paper background in a soft, desaturated taupe color, providing a clean, minimalist, and slightly warm aesthetic.
+
+model_pose ：Model standing tall, body angled slightly to the camera's right, with her head turned gently towards the lens. Her left hand is casually placed in the coat's pocket, while her right hand lightly touches the toggles on the front of the coat, subtly drawing attention to this key detail. Maintain a composed, elegant, and confident expression.
+
+Camera Position: Eye-level, straight on, capturing the model from head to toe.
+
+Composition：Full body shot with the model centered, allowing adequate negative space above her head and below her feet. The model occupies approximately 70-75% of the frame vertically, ensuring the coat's full length and details are clearly visible.
+
+Camera Setting：Lens: 85mm prime. Aperture: f/9. ISO: 100. Shutter Speed: 1/160s. White Balance: Custom white balance set to 5500K. Lighting: Soft, even studio lighting with large softboxes to create a clean, high-key look with subtle shadows for dimension.

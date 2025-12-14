@@ -1,0 +1,9 @@
+clothing：Model wears the black zipper jacket (from the product image) over a dark grey crew-neck sweater. She wears black wide-leg trousers and brown leather ankle boots.
+
+model_pose ：Model stands facing forward, with a slight weight shift to one leg. The jacket zipper is partially open, revealing the sweater underneath. One hand is casually placed in a jacket pocket, and the other arm is relaxed by her side. Her expression is neutral and confident, looking directly at the camera.
+
+Camera Position: Eye-level full-body shot. The camera is positioned to capture the model from head to toe, leaving adequate space above her head and below her feet.
+
+Composition：The model is centered vertically, occupying approximately 70-80% of the frame height. The clean white background with the grey floor is visible around her, creating a minimalist and uncluttered aesthetic that highlights the clothing.
+
+Camera Setting： Soft, diffused studio lighting from the front and slightly to the sides, ensuring even illumination and minimal harsh shadows. Aperture: f/8-f/11. Shutter Speed: 1/125s-1/200s. ISO: 100-200. White Balance: Custom/Flash.

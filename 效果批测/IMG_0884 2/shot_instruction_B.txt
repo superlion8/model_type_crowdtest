@@ -1,0 +1,14 @@
+clothing：
+Model wears a black fitted turtleneck sweater, the dark grey heathered wide-leg trousers (product), and black chunky sole loafers.
+
+model_pose ：
+Model stands facing slightly to the left, with her left hand casually slipped into the pocket of the trousers. Her right arm is relaxed by her side. Head slightly tilted, gaze calm and neutral towards the camera. Full-body shot.
+
+Camera Position:
+Eye-level, approximately 1.5-2 meters from the model, capturing a full-body view.
+
+Composition：
+Model is positioned slightly off-center to the right, following the rule of thirds. The clean white wall serves as the primary background, with the grey floor extending into the foreground. Ensure the background is free of any distracting elements or the chair. Ample negative space surrounds the model.
+
+Camera Setting：
+Soft, diffused studio lighting mimicking natural daylight from the left. Aperture f/4.5 for sharp focus on the model with a subtle separation from the background. ISO 100. Shutter speed 1/160s. Neutral white balance.

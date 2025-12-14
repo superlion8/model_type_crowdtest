@@ -1,0 +1,11 @@
+clothing：Black slim-fit mock-neck knit top, black tailored wide-leg trousers, and sleek black leather ankle boots. Model's hair styled in a sleek low ponytail.
+
+background：Seamless light taupe backdrop with a subtle, soft gradient, creating a clean yet inviting studio environment.
+
+model_pose ：Model stands with a relaxed, confident posture, slightly turned to camera left. Her left hand is casually tucked into the jacket pocket, while her right hand gently rests on the faux fur collar, subtly highlighting its texture. Gaze is soft and direct. The jacket is slightly open to reveal a hint of the inner lining and the mock-neck top.
+
+Camera Position: Eye-level with the model, straight-on.
+
+Composition：Full body shot, model centered within the frame. Ample negative space around the model (approximately 1/5 of the frame above head, 1/5 below feet, and balanced on sides) to emphasize the product.
+
+Camera Setting：Lens: 85mm prime. Aperture: f/9. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom set to studio strobes (e.g., 5500K). Lighting: Soft, diffused studio lighting using a large octabox as key light and a fill light to soften shadows, creating an even, flattering illumination that highlights the jacket's textures.

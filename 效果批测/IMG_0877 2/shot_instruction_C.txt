@@ -1,0 +1,11 @@
+clothing: Black fitted turtleneck sweater, structured charcoal grey wool blazer, black velvet tracksuit bottoms (product), black pointed-toe stiletto ankle boots, minimalist silver stud earrings, delicate silver chain necklace.
+
+background: Seamless light grey studio background.
+
+model_pose: Model stands with a confident, relaxed posture, body slightly angled to the camera's left (viewer's right) to showcase the side embellishment on the pants. One foot is placed slightly forward and outward, creating a gentle curve in the fabric and highlighting the drape of the velvet. Arms are relaxed, with one hand casually tucked into the blazer pocket and the other arm naturally by the side. Head is turned towards the camera with a direct, composed gaze.
+
+Camera Position: Full-body shot, camera at model's eye level, positioned directly in front of the model.
+
+Composition: Full-body shot of the model, centered or slightly off-center, with adequate negative space above and to the sides. The model should fill approximately 70-80% of the frame vertically. Ensure the pants are fully visible and in sharp focus.
+
+Camera Setting: Aperture: f/9-f/11; Shutter Speed: 1/160s; ISO: 100; White Balance: Custom.

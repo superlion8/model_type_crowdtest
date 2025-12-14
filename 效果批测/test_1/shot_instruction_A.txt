@@ -1,0 +1,11 @@
+clothing：Model wears the burgundy fuzzy jacket as the hero product. Pair it with a high-neck black fine-knit top underneath, sleek black tailored straight-leg trousers, and black leather ankle boots. Keep accessories minimal, perhaps small silver hoop earrings.
+
+background：A clean, seamless studio background in a medium, warm grey or taupe tone, offering a subtle contrast to the jacket and maintaining a sophisticated, minimalist aesthetic.
+
+model_pose ：Model stands confidently, facing slightly to the right, looking directly into the camera with a serious yet composed expression. Her left hand is casually placed in the jacket pocket, while her right arm is slightly bent and relaxed at her side, allowing the jacket's texture and fit to be clearly visible.
+
+Camera Position:Full-body shot, positioned at the model's eye level or slightly below, centered to capture the entire outfit and model's presence.
+
+Composition：The model is centrally framed, occupying approximately two-thirds of the vertical space. Ample negative space surrounds her, creating a clean and focused composition that highlights the jacket as the primary subject.
+
+Camera Setting：Aperture: f/6.3 for sharp detail on the jacket and model, with a clean background. Shutter Speed: 1/125s to ensure no motion blur. ISO: 100 for maximum image clarity and minimal noise. Lighting: Soft, diffused studio lighting using a large octabox as the key light, positioned slightly off-center to create subtle depth, with a fill light to soften shadows evenly across the jacket's texture. White Balance: Custom set to studio strobes for accurate color rendition.

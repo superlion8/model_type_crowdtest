@@ -1,0 +1,11 @@
+clothing：The model wears the camel cable-knit cardigan, layered over a fitted cream crew-neck top. Paired with high-waisted, tailored wide-leg trousers in a slightly darker cognac brown for a tonal, sophisticated look. Finished with classic dark brown leather loafers and minimalist gold hoop earrings.
+
+background：A clean, seamless studio background in a warm, light beige/off-white tone, providing a soft, elegant backdrop that complements the outfit without distracting from the product.
+
+model_pose ：Standing tall, facing slightly to a 3/4 angle from the camera. One hand casually rests in a trouser pocket, while the other arm is relaxed by her side, gently holding the front edge of the cardigan. Her posture is confident and relaxed, with a soft, engaging expression looking slightly off-camera.
+
+Camera Position: Eye-level, directly in front of the model.
+
+Composition：Full body shot, with the model centered in the frame. Sufficient headroom and footroom to showcase the entire outfit and the clean, expansive background, maintaining a balanced and elegant aesthetic.
+
+Camera Setting：Aperture: f/7.1, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom (calibrated for studio strobes).

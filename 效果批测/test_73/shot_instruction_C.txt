@@ -1,0 +1,11 @@
+clothing：White ruffled high-neck knit top (product), black oversized blazer, black wide-leg trousers, black classic loafers.
+
+background：Clean, light gray seamless paper background, evenly lit with soft, diffused light, no shadows.
+
+model_pose ：Model stands tall with a confident, relaxed posture. Body slightly angled (approx. 3/4 turn) towards the camera, head gently turned to look directly at the lens. One hand casually rests in the trouser pocket, the other arm relaxed by the side, subtly showcasing the ruffled cuff. A calm, sophisticated expression.
+
+Camera Position: Eye-level to slightly below eye-level, approximately 6 feet from the model, ensuring a full-body shot.
+
+Composition：Full body shot, centered, with adequate negative space above the head and below the feet. The model occupies approximately 65-70% of the vertical frame.
+
+Camera Setting：Aperture f/9, Shutter Speed 1/160s, ISO 100, White Balance set to Flash/Custom.

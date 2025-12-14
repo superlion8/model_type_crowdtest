@@ -1,0 +1,11 @@
+clothing：Black fine-knit turtleneck sweater, black wide-leg tailored trousers, and black chunky sole loafers.
+
+background：Seamless, matte, light grey wall with a subtle, almost imperceptible concrete-like texture for depth.
+
+model_pose ：Model standing, body slightly turned to a 3/4 angle, facing the camera. One hand casually tucked into the side pocket of the parka, the other arm relaxed by her side, slightly bent at the elbow. Head held straight, gaze direct and confident. The high collar is fully up, showing its structure.
+
+Camera Position: Eye-level, centered, with a slight downward angle to capture the full length of the parka and model, emphasizing her height and the garment's silhouette.
+
+Composition：Full body shot, with the model occupying the central vertical third of the frame. Ample negative space above and to the sides to emphasize the clean aesthetic and the product.
+
+Camera Setting：ISO 100, Aperture F/8.0, Shutter Speed 1/160s, White Balance 5500K.

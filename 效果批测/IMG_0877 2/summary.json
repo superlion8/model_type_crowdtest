@@ -1,0 +1,26 @@
+{
+  "product": "IMG_0877 2.JPG",
+  "style_analysis": {
+    "model_style": "Y2K",
+    "background_style": "Y2K"
+  },
+  "assets": {
+    "new_model": "1.jpg",
+    "background": "38.png",
+    "old_model": "17.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

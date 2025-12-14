@@ -1,0 +1,11 @@
+clothing：The model wears the Levi's Sherpa Denim Jacket. Underneath, a fitted black cashmere turtleneck provides a sleek base. High-waisted, straight-leg black leather trousers add a modern, edgy contrast. The look is completed with sleek black leather ankle boots with a modest heel. Accessories include a minimalist silver chain necklace and a few delicate silver rings.
+
+background：A subtly textured, dark charcoal grey wall with a smooth, matte finish, giving a sophisticated and slightly moody ambiance. The background should be clean, free of distractions, and appear as a finished architectural surface, not a studio backdrop.
+
+model_pose ：The model stands with a confident, relaxed posture, slightly turned to a 3/4 angle. One hand is casually slipped into the front pocket of the leather trousers, while the other arm is relaxed, with the hand gently resting on the opposite hip or the jacket's side seam. Her head is slightly turned towards the camera, maintaining a soft, direct gaze that conveys poise and attitude. The pose should clearly showcase the front and side profile of the jacket and the full outfit silhouette.
+
+Camera Position: Eye-level with the model, positioned centrally to capture a full-body shot.
+
+Composition：Full body shot, with the model centered in the frame, occupying approximately 80% of the vertical space. Ample negative space above the head and below the feet for a clean, editorial look. The jacket's details, fit, and texture should be clearly visible.
+
+Camera Setting：Aperture: f/9-f/11 for sharp focus on the entire outfit. ISO: 100-200 for minimal noise. Shutter Speed: 1/160s-1/200s (sync speed for studio strobes). White Balance: Custom set for studio flash to ensure accurate color representation of the denim and sherpa.

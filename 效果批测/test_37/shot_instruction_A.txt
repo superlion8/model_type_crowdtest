@@ -1,0 +1,6 @@
+clothing：Dark green oversized hoodie, rust-colored corduroy wide-leg pants, and brown block-heel ankle boots.
+background：Clean, seamless light grey studio backdrop.
+model_pose ：Model stands relaxed, facing slightly towards the left with a gentle weight shift onto one leg. Head turned towards the camera with a soft, natural expression. One hand casually tucked into the front pouch pocket of the hoodie, the other arm relaxed at the side.
+Camera Position: Mid-level, slightly below the model's eye line.
+Composition：Full body shot, model centered in the frame, with adequate negative space above the head and below the feet.
+Camera Setting：ISO 100-200, Aperture f/4.0-f/5.6, Shutter Speed 1/125s, White Balance set to studio flash (or custom).

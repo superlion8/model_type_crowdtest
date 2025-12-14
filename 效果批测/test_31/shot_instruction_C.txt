@@ -1,0 +1,11 @@
+clothing：The model wears the featured cream, black, and dark brown geometric knit sweater. This is paired with tailored black wide-leg trousers for a sophisticated, modern silhouette. Black chunky sole loafers complete the look, maintaining a contemporary and chic aesthetic. Hair is styled in a sleek low ponytail, and makeup is natural and polished.
+
+background：A seamless, light warm grey studio background. This neutral tone provides a clean, high-end canvas that complements the sweater's earthy palette without distraction, ensuring the focus remains entirely on the garment.
+
+model_pose ：The model stands with a relaxed yet confident posture, body slightly angled to a 3/4 view. One hand is gently tucked into a trouser pocket, while the other arm hangs naturally by her side, allowing the sweater's drape and pattern to be clearly visible. Her head is slightly tilted, looking directly into the camera with a soft, assured expression.
+
+Camera Position: Eye-level, positioned to capture a full-body shot of the model, emphasizing the entire outfit from head to toe.
+
+Composition：Full-body shot of the model centered in the frame, with ample negative space around her to highlight the garment. The model occupies approximately 60-70% of the vertical frame, ensuring no part of the outfit is cropped.
+
+Camera Setting：Aperture: f/8-f/10 for sharp focus across the entire outfit. ISO: 100-200 for clean image quality. Shutter Speed: 1/160s to ensure sharpness. White Balance: Custom white balance for neutral color accuracy under studio lighting.

@@ -1,0 +1,17 @@
+clothing:
+PAIXIANG blouse (product) paired with high-waisted, tailored, wide-leg trousers in charcoal grey. Black leather loafers. Minimalist small gold hoop earrings. Model's hair styled naturally but neatly, perhaps with a soft wave, and clean, natural makeup with a hint of soft rose on the lips.
+
+background:
+Seamless studio backdrop in a warm, light greige (grey-beige) tone, providing a clean, elegant, and subtly textured appearance without any visible shooting equipment.
+
+model_pose:
+Model standing tall and relaxed, weight subtly shifted to her right leg, left hand gently resting in the trouser pocket, right arm relaxed by her side with a slight bend at the elbow. Her head is slightly turned towards the right, with a soft, confident gaze directed slightly off-camera. The pose should highlight the voluminous collar and cuffs of the blouse and the elegant drape of the trousers.
+
+Camera Position:
+Eye-level, straight on, positioned approximately 2.5 to 3 meters from the model.
+
+Composition:
+Full-body shot. Model positioned slightly to the left of the frame, adhering to the rule of thirds, allowing for visual flow and emphasizing the elegant lines of the outfit. Ample headroom and footroom to create a clean, editorial aesthetic. The blouse should be the clear focal point.
+
+Camera Setting:
+Lens: 85mm prime lens. Aperture: f/9. ISO: 100. Shutter Speed: 1/160s. Lighting: Large parabolic softbox positioned slightly above and in front of the model, centered, for soft, even, and flattering illumination, creating subtle depth and dimension without harsh shadows.

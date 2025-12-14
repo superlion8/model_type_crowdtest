@@ -1,0 +1,9 @@
+clothing：Model wears the yellow sweatshirt with the heart print, paired with light-wash straight-leg jeans and white platform sneakers. Her natural curly hair is styled loosely.
+
+model_pose ：Model is seated casually on the left floral armchair, facing slightly towards the camera with a warm, friendly smile. Her body is relaxed, one hand gently resting on her lap or the armchair armrest, and her legs are slightly crossed or one foot is resting on the floor.
+
+Camera Position: Medium full shot, slightly above eye-level, positioned to capture the model from mid-thigh up, including the full sweatshirt and a significant portion of the armchair and pink curtain background.
+
+Composition：Model is positioned slightly to the left of the frame, adhering to the rule of thirds, with her face and upper body aligned with the left vertical line. The floral armchair she is sitting on occupies the lower left. The soft pink curtains provide a continuous, textured backdrop across the entire frame. The second floral armchair is partially visible on the right side, adding depth without competing for focus. The overall composition is balanced and inviting, emphasizing the cozy and feminine aesthetic.
+
+Camera Setting：Soft, diffused studio lighting mimicking natural light, ensuring even illumination without harsh shadows. Aperture: f/3.5 for a slight depth of field to gently separate the model from the background. Shutter Speed: 1/160s. ISO: 200. White Balance: Custom (set to match studio lighting).

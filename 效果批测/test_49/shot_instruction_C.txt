@@ -1,0 +1,11 @@
+clothing：A fitted, fine-gauge knit crew-neck top in pale ivory. Elegant, pointed-toe low block heels in light tan. A delicate gold chain necklace with a small, minimalist pendant and small gold hoop earrings.
+
+background：Seamless light greige (grey-beige) paper backdrop, evenly lit to create a soft, clean, and premium feel with minimal shadows.
+
+model_pose ：Model stands with body slightly angled towards the camera, weight primarily on the back leg, allowing the front leg to appear relaxed with a subtle bend at the knee. One hand gently touches the side of the skirt, highlighting its texture and flow, while the other arm is relaxed by the side. Head slightly tilted, with a soft, confident expression looking slightly off-camera.
+
+Camera Position: Eye-level, full-body shot. The camera is positioned directly in front of the model, capturing the entire outfit from head to toe with sufficient headroom and foot room.
+
+Composition：Rule of thirds applied, with the model centered slightly to the left or right vertical line. Ample negative space around the model to create a clean, minimalist, and premium aesthetic, drawing focus to the product.
+
+Camera Setting：Aperture: f/8. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom (calibrated to studio lighting, e.g., 5500K). Lens: 85mm prime lens.

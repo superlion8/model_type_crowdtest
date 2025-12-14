@@ -1,0 +1,26 @@
+{
+  "product": "test_9.png",
+  "style_analysis": {
+    "model_style": "高级",
+    "background_style": "高级"
+  },
+  "assets": {
+    "new_model": "Caucasian_30-40_female.jpg",
+    "background": "generated-image-1 (4) 2.png",
+    "old_model": "40.png"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,17 @@
+clothing：
+Rust orange textured long-sleeved sweater (as worn by the model), dark grey pleated mini skirt (the product), black leather ankle boots.
+
+background：
+A clean, seamless light warm grey studio backdrop, evenly lit to create a soft, natural ambiance.
+
+model_pose ：
+Model stands with her body angled slightly (approximately 3/4 turn) towards the camera, head turned directly to the camera with a neutral, confident expression. One hand is gently placed on her hip, slightly pushing out the skirt, while the other arm hangs relaxed at her side. Her weight is primarily on one leg, with the other leg slightly bent at the knee, creating a subtle curve that showcases the skirt's pleats and movement.
+
+Camera Position:
+Eye-level with the model, positioned to capture a full-body shot.
+
+Composition：
+Full-body shot of the model, centered within the frame, with adequate negative space above her head and below her feet. The model occupies approximately 60-70% of the vertical frame.
+
+Camera Setting：
+Lens: 85mm. Aperture: f/4.0. ISO: 100. Shutter Speed: 1/160s. Soft, even studio lighting with a subtle main light from 45 degrees to the left or right of the camera, and a softer fill light to minimize harsh shadows.

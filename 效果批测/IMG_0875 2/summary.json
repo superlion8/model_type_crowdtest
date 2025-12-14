@@ -1,0 +1,26 @@
+{
+  "product": "IMG_0875 2.JPG",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "高级"
+  },
+  "assets": {
+    "new_model": "image-image_to_image_gemini-55a76567-baea-4956-951d-e2ecb0ace09d (1).png",
+    "background": "generated-image-1 (7) 2.png",
+    "old_model": "9.png"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

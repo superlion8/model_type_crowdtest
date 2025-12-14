@@ -1,0 +1,11 @@
+clothing：Acne Studios Tan Leather Biker Jacket, a fitted black ribbed knit crew neck top, high-waisted slim-fit black tailored trousers, and black leather ankle boots with a moderate block heel. Minimalist silver hoop earrings. Model's natural short curly hair styled neatly, with natural, glowing makeup and a neutral lip.
+
+background：Seamless matte light grey studio background, clean and uniformly lit.
+
+model_pose ：Standing, slightly turned to a ¾ profile, left shoulder slightly forward, right hand casually in trouser pocket, left arm bent with fingers lightly touching the jacket lapel, head turned directly towards the camera with a confident, direct gaze.
+
+Camera Position: Eye-level with the model, positioned to capture a full body shot.
+
+Composition：Full body shot, model positioned centrally within the frame, adhering to the rule of thirds for visual balance. Ample negative space above and to the sides, framing the model and jacket effectively. The jacket is the primary focus, sharp and well-defined.
+
+Camera Setting：Aperture: f/8, ISO: 100, Shutter Speed: 1/160s, White Balance: Custom (set to studio strobes).

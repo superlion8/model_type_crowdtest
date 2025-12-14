@@ -1,0 +1,9 @@
+clothing：Black velvet flared track pants with silver sequin "Juicy Couture" style lettering down one leg and an ornate silver logo on the hip (the product), paired with a short, light pink sequined crop top revealing the midriff, chunky metallic silver platform sneakers, a silver chain belt worn low on the hips, multiple silver chain necklaces, hoop earrings, and stacked silver bracelets.
+
+model_pose ：Model stands confidently in the elevator, leaning casually against the newspaper-covered wall. One hand is casually slipped into a pant pocket or resting on her hip, the other arm relaxed. Her torso is slightly angled to emphasize the crop top and the low-rise fit of the pants. Legs are slightly apart, showcasing the flare of the velvet pants. Head slightly tilted, with a direct, confident gaze towards the camera. Hair styled naturally with a slight wet look or subtle waves.
+
+Camera Position: Medium full shot, capturing the model from just above the head to the bottom of the shoes. Camera at eye-level or slightly below the model's eye-level to give a powerful perspective.
+
+Composition：Model positioned slightly off-center, following the rule of thirds, with the elevator's newspaper-covered wall filling the background. The "NO SMOKING" sign is visible in the upper part of the frame, adding to the urban context. The model's form creates a strong vertical element against the busy background, ensuring the silver embellishments on the pants are clearly visible.
+
+Camera Setting：Lighting: Soft, ambient light, simulating natural light from the elevator's interior, possibly supplemented by a subtle, diffused fill light from the front to illuminate the model without casting harsh shadows, ensuring no visible light sources. Aperture: f/3.5, Shutter Speed: 1/160s, ISO: 320, White Balance: Auto, Lens: 85mm prime lens.

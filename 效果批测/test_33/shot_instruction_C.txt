@@ -1,0 +1,11 @@
+clothing：The model wears the pink short-sleeved Henley shirt. Paired with high-waisted, straight-leg light-wash denim jeans for a casual yet chic look. Footwear consists of clean white minimalist sneakers. Accessories include a delicate silver chain necklace and small silver stud earrings. Hair is styled in loose, natural waves, framing the face. Makeup is natural, fresh-faced with a dewy finish and a subtle lip tint.
+
+background：Seamless matte light grey studio wall with a clean, light concrete floor. The lighting should be soft and diffused, creating subtle, even shadows to add depth without harshness.
+
+model_pose ：Standing in a relaxed posture, with the body slightly angled (3/4 turn) towards the camera. The left hand is casually slipped into the front pocket of the jeans, while the right arm is relaxed at her side, gently touching the shirt placket to subtly highlight the buttons. The head is turned to face the camera directly, with a soft, approachable gaze. Weight is subtly shifted onto one leg, creating a natural, unforced stance.
+
+Camera Position: Eye-level with the model's chest, centered, capturing the full body from head to toe.
+
+Composition：Full-body shot, centered vertically within the frame. There should be generous negative space (approximately 25-30% above the model's head and 15-20% on each side) to emphasize minimalism and product focus. The model's head should be positioned around the upper third line of the frame.
+
+Camera Setting：Aperture: f/5.6. Shutter Speed: 1/160 sec. ISO: 100. White Balance: Custom (calibrated to studio lighting). Lens: 85mm prime lens.

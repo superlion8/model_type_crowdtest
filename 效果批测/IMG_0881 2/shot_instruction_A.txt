@@ -1,0 +1,11 @@
+clothing: Teal corduroy wide-leg pleated pants, paired with a cream-colored fitted long-sleeve knit top with a crew neck, and dark brown chunky loafers. The model's hair is styled naturally as in the reference image, with minimal, natural-looking makeup.
+
+background: A seamless light beige/cream cyclorama wall, providing a clean, soft, and warm studio environment. The lighting is even and diffused, creating soft shadows that define the model's form and the texture of the clothing without harsh contrasts.
+
+model_pose: The model stands with a relaxed yet confident posture, facing slightly to the right (3/4 profile). Her left hand is casually tucked into the front pocket of the corduroy pants, allowing the wide-leg silhouette to drape naturally. Her right arm hangs loosely by her side. Her weight is subtly shifted to her left leg, with the right leg slightly bent, creating a gentle curve in the pants. She maintains a subtle, direct gaze towards the camera or slightly off-camera, conveying a chic and approachable attitude.
+
+Camera Position: Slightly below eye-level, positioned approximately 2-3 meters from the model.
+
+Composition: Full-body shot, vertically oriented, with the model centered in the frame. Ample negative space above her head and below her feet, ensuring the entire outfit is visible and highlighted. The composition emphasizes the drape and texture of the wide-leg pants.
+
+Camera Setting: Aperture: f/9, ISO: 100, Shutter Speed: 1/160s. White Balance: Custom.

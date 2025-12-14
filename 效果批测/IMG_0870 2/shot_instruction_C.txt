@@ -1,0 +1,11 @@
+clothing: A fitted, long-sleeve knit top in a cream or off-white shade, subtly tucked into the skirt. Paired with sleek black leather loafers and sheer black ankle socks. Minimalist gold jewelry: a delicate chain necklace and small hoop earrings. Hair styled in a clean, low ponytail, and natural, sophisticated makeup.
+
+background: A seamless, light concrete grey wall with a subtle, smooth texture, providing a clean, modern, and sophisticated backdrop without any visible props or distractions.
+
+model_pose: Model standing with a slight weight shift to her left leg, right foot slightly forward. Her right hand is gently resting on her hip, while her left arm hangs naturally, slightly bent. Her torso is subtly turned to her right, showcasing the pleats and drape of the skirt, while her head is turned to face the camera directly. Expression is confident and neutral.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model, centered.
+
+Composition: Full-body shot, with the model centered in the frame. Ample headroom and footroom are maintained, ensuring the entire outfit is visible and the skirt is the clear focal point. The negative space around the model is balanced, creating a clean and uncluttered presentation.
+
+Camera Setting: Aperture f/9, ISO 100, Shutter Speed 1/160s, White Balance 5500K. Softbox lighting setup to create even illumination with subtle, soft shadows to add dimension.

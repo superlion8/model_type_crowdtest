@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>众测结果统计</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&display=swap');
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #e0e0e0;
+            padding: 2rem;
+        }
+        
+        .container { max-width: 1200px; margin: 0 auto; }
+        
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        h1 {
+            font-size: 2rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle { color: #888; }
+        
+        .card {
+            background: rgba(255,255,255,0.05);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .card h2 {
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+            color: #667eea;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .stat-card {
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label { color: #888; font-size: 0.9rem; }
+        
+        .stat-card.a .stat-value { color: #10b981; }
+        .stat-card.b .stat-value { color: #667eea; }
+        .stat-card.c .stat-value { color: #f59e0b; }
+        .stat-card.none .stat-value { color: #ef4444; }
+        
+        .bar-chart {
+            margin: 2rem 0;
+        }
+        
+        .bar-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .bar-label {
+            width: 150px;
+            font-size: 0.9rem;
+        }
+        
+        .bar-container {
+            flex: 1;
+            height: 30px;
+            background: rgba(0,0,0,0.3);
+            border-radius: 6px;
+            overflow: hidden;
+            margin: 0 1rem;
+        }
+        
+        .bar-fill {
+            height: 100%;
+            border-radius: 6px;
+            transition: width 0.5s ease;
+        }
+        
+        .bar-fill.a { background: linear-gradient(90deg, #10b981, #059669); }
+        .bar-fill.b { background: linear-gradient(90deg, #667eea, #764ba2); }
+        .bar-fill.c { background: linear-gradient(90deg, #f59e0b, #d97706); }
+        .bar-fill.none { background: linear-gradient(90deg, #ef4444, #dc2626); }
+        
+        .bar-value {
+            width: 80px;
+            text-align: right;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        th {
+            background: rgba(0,0,0,0.3);
+            font-weight: 600;
+            color: #667eea;
+        }
+        
+        tr:hover td {
+            background: rgba(255,255,255,0.02);
+        }
+        
+        .tag {
+            display: inline-block;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin: 0.1rem;
+        }
+        
+        .tag.a { background: rgba(16, 185, 129, 0.2); color: #10b981; }
+        .tag.b { background: rgba(102, 126, 234, 0.2); color: #667eea; }
+        .tag.c { background: rgba(245, 158, 11, 0.2); color: #f59e0b; }
+        .tag.none { background: rgba(239, 68, 68, 0.2); color: #ef4444; }
+        
+        .actions {
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 0.8rem 1.5rem;
+            font-size: 1rem;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-secondary {
+            background: rgba(255,255,255,0.1);
+            color: #aaa;
+        }
+        
+        .btn-secondary:hover {
+            background: rgba(255,255,255,0.15);
+        }
+        
+        .file-input {
+            display: none;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+        }
+        
+        .winner-badge {
+            display: inline-block;
+            padding: 0.3rem 0.8rem;
+            background: linear-gradient(135deg, #fbbf24, #f59e0b);
+            color: #000;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-left: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📊 众测结果统计</h1>
+            <p class="subtitle">模特棚拍效果评测数据分析</p>
+        </header>
+        
+        <div class="actions">
+            <label class="btn btn-primary">
+                📁 导入结果文件
+                <input type="file" class="file-input" id="file-input" accept=".json" multiple onchange="importFiles(event)">
+            </label>
+            <button class="btn btn-secondary" onclick="loadFromLocalStorage()">💾 加载本地数据</button>
+            <button class="btn btn-secondary" onclick="exportAllData()">📥 导出汇总数据</button>
+            <button class="btn btn-secondary" onclick="clearData()">🗑️ 清除数据</button>
+        </div>
+        
+        <div class="card">
+            <h2>📈 总体统计</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="total-users">0</div>
+                    <div class="stat-label">参与用户</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="total-votes">0</div>
+                    <div class="stat-label">总投票数</div>
+                </div>
+                <div class="stat-card a">
+                    <div class="stat-value" id="votes-a">0</div>
+                    <div class="stat-label">A_新模特</div>
+                </div>
+                <div class="stat-card b">
+                    <div class="stat-value" id="votes-b">0</div>
+                    <div class="stat-label">B_新模特+背景</div>
+                </div>
+                <div class="stat-card c">
+                    <div class="stat-value" id="votes-c">0</div>
+                    <div class="stat-label">C_老模特</div>
+                </div>
+                <div class="stat-card none">
+                    <div class="stat-value" id="votes-none">0</div>
+                    <div class="stat-label">都不满意</div>
+                </div>
+            </div>
+            
+            <div class="bar-chart" id="bar-chart"></div>
+        </div>
+        
+        <div class="card">
+            <h2>🏆 各商品得票情况</h2>
+            <div id="product-stats">
+                <div class="empty-state">暂无数据，请导入评测结果</div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>👥 用户评测详情</h2>
+            <div id="user-details">
+                <div class="empty-state">暂无数据</div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let allResults = [];
+        
+        // 导入文件
+        function importFiles(event) {
+            const files = event.target.files;
+            
+            Array.from(files).forEach(file => {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    try {
+                        const data = JSON.parse(e.target.result);
+                        if (data.results) {
+                            allResults.push(data);
+                            updateStats();
+                        }
+                    } catch (err) {
+                        console.error('解析文件失败:', err);
+                    }
+                };
+                reader.readAsText(file);
+            });
+        }
+        
+        // 从 localStorage 加载
+        function loadFromLocalStorage() {
+            const stored = localStorage.getItem('crowdtest_results');
+            if (stored) {
+                allResults = JSON.parse(stored);
+                updateStats();
+                alert(`已加载 ${allResults.length} 条评测记录`);
+            } else {
+                alert('本地没有保存的数据');
+            }
+        }
+        
+        // 更新统计
+        function updateStats() {
+            const stats = {
+                'A_新模特': 0,
+                'B_新模特+背景': 0,
+                'C_老模特': 0,
+                'none': 0
+            };
+            
+            const productStats = {};
+            let totalVotes = 0;
+            
+            allResults.forEach(userData => {
+                userData.results.forEach(result => {
+                    // 初始化商品统计
+                    if (!productStats[result.product]) {
+                        productStats[result.product] = {
+                            'A_新模特': 0,
+                            'B_新模特+背景': 0,
+                            'C_老模特': 0,
+                            'none': 0,
+                            total: 0
+                        };
+                    }
+                    
+                    result.selected.forEach(selection => {
+                        if (stats.hasOwnProperty(selection)) {
+                            stats[selection]++;
+                            productStats[result.product][selection]++;
+                            totalVotes++;
+                        }
+                    });
+                    productStats[result.product].total++;
+                });
+            });
+            
+            // 更新总体统计
+            document.getElementById('total-users').textContent = allResults.length;
+            document.getElementById('total-votes').textContent = totalVotes;
+            document.getElementById('votes-a').textContent = stats['A_新模特'];
+            document.getElementById('votes-b').textContent = stats['B_新模特+背景'];
+            document.getElementById('votes-c').textContent = stats['C_老模特'];
+            document.getElementById('votes-none').textContent = stats['none'];
+            
+            // 绘制条形图
+            const maxVotes = Math.max(...Object.values(stats), 1);
+            let barHTML = '';
+            
+            const barData = [
+                { key: 'A_新模特', label: 'A - 新模特', class: 'a', value: stats['A_新模特'] },
+                { key: 'B_新模特+背景', label: 'B - 新模特+背景', class: 'b', value: stats['B_新模特+背景'] },
+                { key: 'C_老模特', label: 'C - 老模特', class: 'c', value: stats['C_老模特'] },
+                { key: 'none', label: '都不满意', class: 'none', value: stats['none'] }
+            ];
+            
+            // 找出获胜者
+            const winner = barData.reduce((a, b) => a.value > b.value ? a : b);
+            
+            barData.forEach(item => {
+                const percent = totalVotes > 0 ? Math.round((item.value / totalVotes) * 100) : 0;
+                const width = (item.value / maxVotes) * 100;
+                const isWinner = item.value === winner.value && item.value > 0;
+                
+                barHTML += `
+                    <div class="bar-row">
+                        <div class="bar-label">
+                            ${item.label}
+                            ${isWinner ? '<span class="winner-badge">🏆 领先</span>' : ''}
+                        </div>
+                        <div class="bar-container">
+                            <div class="bar-fill ${item.class}" style="width: ${width}%"></div>
+                        </div>
+                        <div class="bar-value">${item.value} (${percent}%)</div>
+                    </div>
+                `;
+            });
+            
+            document.getElementById('bar-chart').innerHTML = barHTML;
+            
+            // 更新商品统计表格
+            if (Object.keys(productStats).length > 0) {
+                let tableHTML = `
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>商品</th>
+                                <th>A_新模特</th>
+                                <th>B_新模特+背景</th>
+                                <th>C_老模特</th>
+                                <th>都不满意</th>
+                                <th>最佳选择</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                `;
+                
+                Object.entries(productStats)
+                    .sort((a, b) => b[1].total - a[1].total)
+                    .forEach(([product, pstats]) => {
+                        const best = ['A_新模特', 'B_新模特+背景', 'C_老模特', 'none']
+                            .reduce((a, b) => pstats[a] > pstats[b] ? a : b);
+                        
+                        tableHTML += `
+                            <tr>
+                                <td>${product}</td>
+                                <td>${pstats['A_新模特']}</td>
+                                <td>${pstats['B_新模特+背景']}</td>
+                                <td>${pstats['C_老模特']}</td>
+                                <td>${pstats['none']}</td>
+                                <td><span class="tag ${best === 'none' ? 'none' : best.charAt(0).toLowerCase()}">${best}</span></td>
+                            </tr>
+                        `;
+                    });
+                
+                tableHTML += '</tbody></table>';
+                document.getElementById('product-stats').innerHTML = tableHTML;
+            }
+            
+            // 更新用户详情
+            if (allResults.length > 0) {
+                let userHTML = `
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>用户</th>
+                                <th>评测时间</th>
+                                <th>评测数量</th>
+                                <th>偏好分布</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                `;
+                
+                allResults.forEach(userData => {
+                    const userStats = { a: 0, b: 0, c: 0, none: 0 };
+                    userData.results.forEach(r => {
+                        r.selected.forEach(s => {
+                            if (s === 'A_新模特') userStats.a++;
+                            else if (s === 'B_新模特+背景') userStats.b++;
+                            else if (s === 'C_老模特') userStats.c++;
+                            else if (s === 'none') userStats.none++;
+                        });
+                    });
+                    
+                    userHTML += `
+                        <tr>
+                            <td>${userData.username}</td>
+                            <td>${new Date(userData.timestamp).toLocaleString('zh-CN')}</td>
+                            <td>${userData.results.length}</td>
+                            <td>
+                                <span class="tag a">A: ${userStats.a}</span>
+                                <span class="tag b">B: ${userStats.b}</span>
+                                <span class="tag c">C: ${userStats.c}</span>
+                                <span class="tag none">无: ${userStats.none}</span>
+                            </td>
+                        </tr>
+                    `;
+                });
+                
+                userHTML += '</tbody></table>';
+                document.getElementById('user-details').innerHTML = userHTML;
+            }
+        }
+        
+        // 导出汇总数据
+        function exportAllData() {
+            if (allResults.length === 0) {
+                alert('没有数据可导出');
+                return;
+            }
+            
+            const blob = new Blob([JSON.stringify(allResults, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `crowdtest_all_results_${Date.now()}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+        
+        // 清除数据
+        function clearData() {
+            if (confirm('确定要清除所有数据吗？')) {
+                allResults = [];
+                localStorage.removeItem('crowdtest_results');
+                updateStats();
+                document.getElementById('product-stats').innerHTML = '<div class="empty-state">暂无数据</div>';
+                document.getElementById('user-details').innerHTML = '<div class="empty-state">暂无数据</div>';
+            }
+        }
+        
+        // 页面加载时尝试加载本地数据
+        document.addEventListener('DOMContentLoaded', () => {
+            const stored = localStorage.getItem('crowdtest_results');
+            if (stored) {
+                allResults = JSON.parse(stored);
+                updateStats();
+            }
+        });
+    </script>
+</body>
+</html>
+

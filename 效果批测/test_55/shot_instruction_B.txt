@@ -1,0 +1,9 @@
+clothing：Model wears a black turtleneck, black wide-leg trousers, and black chunky-sole shoes. The khaki/olive green long-sleeved shirt is worn open over the turtleneck.
+
+model_pose ：Model stands facing the camera with a relaxed yet confident demeanor. Her arms are down, one hand subtly resting in a trouser pocket, the other arm relaxed by her side. Her head is slightly tilted, and she maintains a calm, direct gaze.
+
+Camera Position: Eye-level or slightly below eye-level, shooting straight-on to capture the model's full figure and the outfit details.
+
+Composition：Full body shot, centered. The model occupies the central vertical third of the frame, with ample clean white space above and to the sides. The grey floor line is visible in the lower quarter of the frame, providing a stable base.
+
+Camera Setting：Studio lighting, high-key setup with soft, even illumination. Minimal shadows to maintain a clean, crisp, and professional product photography aesthetic. White balance set for neutral tones.

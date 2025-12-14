@@ -1,0 +1,11 @@
+clothing：Fitted black crew-neck t-shirt; loose-fitting, matte dark charcoal draped trousers; black leather combat boots.
+
+background：Seamless light grey wall with a subtle, fine concrete texture.
+
+model_pose ：Model stands tall, facing the camera with a direct, serious gaze. Torso slightly turned to the left to showcase the drape and asymmetry of the cardigan. Left hand casually tucked into the trouser pocket, right arm slightly bent with the hand relaxed at the side, allowing the cardigan to fall naturally.
+
+Camera Position:Slightly below eye-level, centered directly in front of the model.
+
+Composition：Full body shot, vertical orientation. Model positioned centrally, occupying approximately 75% of the frame height, with ample negative space above the head and to the sides.
+
+Camera Setting：Aperture: f/9; Shutter Speed: 1/160s; ISO: 100; White Balance: Custom.

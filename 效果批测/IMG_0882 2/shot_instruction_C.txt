@@ -1,0 +1,11 @@
+clothing：Fitted, high-neck ribbed knit top in cream/ivory. Black pointed-toe ankle boots with a modest heel. Minimalist gold hoop earrings and a delicate gold chain necklace.
+
+background：Seamless light warm grey studio backdrop, clean and uncluttered.
+
+model_pose ：Model standing confidently with a slight weight shift to one leg, one hand casually resting on her hip, the other arm relaxed by her side. Body turned slightly (3/4 view) to showcase the drape and width of the pants. Head slightly tilted, looking directly at the camera with a soft, confident expression.
+
+Camera Position: Eye-level with the model, positioned for a full-body shot.
+
+Composition：Full-body shot of the model, centered in the frame, with generous negative space above and below. The model fills approximately 70% of the vertical frame.
+
+Camera Setting：Aperture: f/9, ISO: 100, Shutter Speed: 1/160s, White Balance: Custom. Soft, even studio lighting to highlight fabric texture and minimize harsh shadows.

@@ -1,0 +1,9 @@
+clothing：Model wears a black crew-neck top, black slim-fit trousers, and the grey textured oversized coat from the product image. She wears her original black shoes.
+
+model_pose ：Model stands facing slightly to her left, with her head gently turned towards the camera, maintaining a calm and confident expression. Her left hand is casually resting on the coat's tie belt, while her right arm is relaxed by her side, showcasing the coat's drape and texture. Weight is subtly shifted to one leg.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model, directly in front.
+
+Composition：Full body shot of the model. She is positioned slightly to the right of the frame, allowing for some negative space on her left side. The white wall, silver trim, and concrete floor are clearly visible, with the silver trim forming a horizontal line across the lower part of the background. Sufficient headroom and foot room are maintained, emphasizing the coat as the primary focus.
+
+Camera Setting：Soft, diffused lighting from the front and slightly above, mimicking natural daylight. Aperture: f/6.3, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom (set to the white background), Lens: 85mm prime lens.

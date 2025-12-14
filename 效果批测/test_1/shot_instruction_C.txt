@@ -1,0 +1,11 @@
+clothing：Fitted charcoal grey fine-gauge knit turtleneck sweater, dark wash slim-fit jeans, sleek black leather ankle boots with a low block heel. Hair styled in soft, natural waves, slightly polished. Minimalist silver stud earrings, no necklace.
+
+background：Clean, light warm grey seamless paper background, evenly lit to provide a soft, neutral setting that highlights the jacket's color and texture.
+
+model_pose ：Model standing, body angled slightly to the left (approx. 15-20 degrees), head turned back towards the camera with a soft, confident expression. One hand casually slipped into the front left pocket of the jeans, the other arm relaxed by her side, allowing the jacket to drape naturally. The jacket is closed with 2-3 middle buttons to showcase the collar and the inner turtleneck. Weight subtly shifted to one leg for a natural, poised stance.
+
+Camera Position:Eye-level with the model's torso, ensuring a direct and engaging perspective.
+
+Composition：Full-body shot, with the model positioned slightly off-center according to the rule of thirds, allowing for balanced negative space. Frame includes from just above the model's head to just below her feet, ensuring the entire outfit is visible without feeling cramped.
+
+Camera Setting：Aperture: f/9, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom (calibrated to studio strobes). Lighting setup: Two large softboxes; main light positioned slightly to the left and 45 degrees in front of the model, fill light to the right and slightly closer to the camera, both angled to create soft, even illumination with subtle texture definition and minimal harsh shadows.

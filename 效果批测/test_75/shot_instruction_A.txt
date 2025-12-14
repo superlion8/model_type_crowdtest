@@ -1,0 +1,19 @@
+：
+clothing：
+*   **Female Model:** Dressed in the provided beige oversized wool blazer, cream high-neck knit sweater, and beige wide-leg tailored trousers. Paired with sleek beige leather flat mules. Accessories include small gold hoop earrings and a delicate gold chain necklace.
+*   **Male Model:** Wears the provided khaki cotton overshirt, layered over a charcoal grey fine-knit crew neck t-shirt. Matched with dark charcoal grey tailored trousers and dark brown leather chelsea boots. A simple dark-faced watch with a leather strap completes the look.
+
+background：A seamless light greige (grey-beige) studio wall with a subtle, fine-grained concrete texture, providing a clean yet warm and contemporary feel. The floor should be a matching or slightly darker tone to create a cohesive, grounded space.
+
+model_pose ：The female model stands confidently, facing slightly towards the camera (about a 15-degree angle), with her weight shifted to one leg. One hand is casually in her trouser pocket, the other arm relaxed by her side. Her gaze is soft and direct. The male model stands slightly behind and to the right of the female model, angled slightly towards her but looking directly at the camera. His posture is relaxed, with hands in pockets or arms casually crossed, showcasing the overshirt. Both models maintain a sophisticated and approachable demeanor.
+
+Camera Position: Eye-level with the models, positioned about 3-4 meters away to capture a comfortable three-quarter to full-body shot of both, ensuring their full outfits are visible.
+
+Composition：The two models are positioned centrally or slightly offset according to the rule of thirds, creating a balanced and visually appealing frame. There should be adequate negative space around them to emphasize their silhouettes and the texture of the background. The female model is slightly to the left, and the male model slightly to the right, creating a natural visual flow. Ensure both models' outfits are fully visible, from head to toe.
+
+Camera Setting：
+*   **Aperture:** f/8 - f/11 (to ensure both models are sharp).
+*   **ISO:** 100-200.
+*   **Shutter Speed:** 1/125s - 1/160s (sync speed for studio strobes).
+*   **White Balance:** Custom (calibrated for studio lights, typically around 5500K).
+*   **Lighting:** Soft, diffused main light (large softbox/octabox) positioned slightly to the front-right of the models, angled downwards, creating subtle shadows that enhance texture and dimension. A secondary fill light or reflector on the left to gently lift shadows. The overall lighting should be clean and even, highlighting fabric textures without being overly dramatic.

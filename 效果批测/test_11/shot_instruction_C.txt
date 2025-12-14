@@ -1,0 +1,11 @@
+clothing：A fine-gauge cream turtleneck paired with tailored black wide-leg trousers and black sleek leather loafers. Minimal accessories include a delicate gold chain necklace and small gold hoop earrings.
+
+background：Seamless light grey studio backdrop, evenly lit to provide a clean and professional aesthetic.
+
+model_pose ：Model stands upright, facing slightly towards the camera with a gentle 3/4 profile, shoulders relaxed. One hand is subtly tucked into a trouser pocket or rests gently on the hip, the other arm relaxed by her side. The cardigan is fully buttoned, prominently displaying the red heart 'A' logo on the left chest. Model maintains a confident, soft gaze towards the camera.
+
+Camera Position: Eye-level, straight-on.
+
+Composition：Full body shot, model centered in the frame with ample negative space above the head and below the feet. The focus should be sharp on the model and the cardigan, ensuring the product is clearly visible.
+
+Camera Setting：Aperture: f/5.6, Shutter Speed: 1/160s, ISO: 100, Lens: 85mm prime, White Balance: Custom for studio strobes.

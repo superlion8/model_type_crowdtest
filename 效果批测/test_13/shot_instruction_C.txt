@@ -1,0 +1,11 @@
+clothing：Black slim-fit turtleneck sweater, tailored dark charcoal grey wide-leg trousers, sleek black leather ankle boots.
+
+background：Seamless matte light greige backdrop with a subtle, fine plaster texture.
+
+model_pose ：Model standing, body angled 3/4 to camera right, head turned slightly towards the camera with a calm, confident expression. Left hand casually tucked into the coat pocket, allowing the belted waist and coat drape to be prominent. Right arm relaxed, revealing the sleeve cuff detail.
+
+Camera Position: Eye-level, approximately 1.5 meters from the model, centered for a full-body shot.
+
+Composition：Full-body shot, vertically centered. Model occupies approximately 65% of the vertical frame, with generous negative space above the head and below the feet for a clean, upscale presentation.
+
+Camera Setting：Lens: 85mm f/1.8; Aperture: f/5.6; Shutter Speed: 1/160s; ISO: 100; White Balance: Custom.

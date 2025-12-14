@@ -1,0 +1,11 @@
+clothing： The model wears the dark blue corduroy wide-leg pants. Paired with a fitted, fine-knit cream turtleneck sweater, neatly tucked in. A structured charcoal grey blazer is draped loosely over her shoulders, left open. For footwear, she wears dark brown chunky leather loafers. Minimalist gold stud earrings complete the look.
+
+background： A seamless light greige paper background, evenly lit to appear clean and sophisticated, without any visible studio equipment or harsh shadows.
+
+model_pose ： The model stands confidently, facing slightly to the right of the camera, with her body gently twisted to create a subtle "S" curve. Her left leg is slightly forward, showcasing the drape and width of the pants. Her left hand is casually inserted into the pant pocket, highlighting the pocket detail, while her right arm hangs relaxed at her side. Her gaze is direct and poised, looking towards the camera.
+
+Camera Position: Slightly below eye-level, aimed slightly upwards to elongate the model's figure and the pants, approximately 8-10 feet away from the model.
+
+Composition： Full body shot. The model is positioned slightly off-center to the left, allowing ample negative space on the right side of the frame. The top of her head has sufficient headroom, and her feet are comfortably within the lower frame, ensuring the full length of the pants is captured without being cut off.
+
+Camera Setting： Lens: 85mm prime lens. Aperture: f/8 for sharp focus from front to back. Shutter Speed: 1/160s to prevent motion blur. ISO: 100 for maximum image clarity. Lighting: Key light from a large octabox positioned slightly above and to the front-right of the model for soft, directional illumination. A large fill card or secondary softbox to the left provides subtle fill. A narrow strip light behind the model on the right side adds a gentle rim light to separate her from the background. The background is separately lit for an even, clean appearance.

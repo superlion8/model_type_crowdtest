@@ -1,0 +1,11 @@
+clothing： A fitted, long-sleeve top in a rich, earthy brown with subtle draping and texture. The wide-leg distressed light blue jeans (product) are worn high-waisted. Complete the look with chunky black platform boots and the model's existing black headscarf and silver necklace.
+
+background： A seamless dark grey paper studio background, clean and uniformly lit, providing a neutral canvas that allows the outfit to stand out.
+
+model_pose ： Confident and relaxed standing pose. Model faces slightly left of camera, head turned towards the camera, maintaining direct eye contact. One hand casually tucked into the front pocket of the jeans, the other arm relaxed at the side. Weight slightly shifted to one leg, allowing the wide-leg jeans to drape naturally and showcase their volume.
+
+Camera Position: Eye-level, approximately 2.5 meters from the model.
+
+Composition： Full-body shot, centered, with adequate headroom and foot room, ensuring the entire outfit and model's expression are clearly visible.
+
+Camera Setting： Aperture: f/5.6; Shutter Speed: 1/160s; ISO: 100; Lens: 85mm. Soft, even studio lighting with subtle shadows to add dimension to the model and clothing.

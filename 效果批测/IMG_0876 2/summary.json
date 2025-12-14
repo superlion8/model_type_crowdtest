@@ -1,0 +1,26 @@
+{
+  "product": "IMG_0876 2.JPG",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "复古"
+  },
+  "assets": {
+    "new_model": "Caucasian_18-25_female_1_2.jpg",
+    "background": "1961415426417922048_1765628512810_90301.png",
+    "old_model": "18.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

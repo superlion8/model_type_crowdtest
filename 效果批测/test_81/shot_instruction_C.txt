@@ -1,0 +1,17 @@
+clothing:
+The model wears the pink velour zip-up hoodie, styled partially unzipped to reveal a fitted cream ribbed tank top underneath. She is paired with high-waisted, tailored wide-leg trousers in a light beige color, and sleek off-white pointed-toe low-heeled mules. Accessories include a delicate gold chain necklace and small gold hoop earrings. A structured cream mini shoulder bag is casually held or draped.
+
+background:
+A minimalist studio setting featuring a seamless light beige backdrop, illuminated by soft, diffused natural-looking light that creates subtle, elongated shadows for depth and sophistication.
+
+model_pose:
+The model stands in a relaxed yet elegant 3/4 view. One hand is casually placed in the trouser pocket, while the other arm hangs naturally, slightly away from the body. Her weight is gently shifted to one leg, creating a subtle S-curve. She maintains a serene and confident expression, with a direct yet soft gaze towards the camera. The pose highlights the relaxed fit of the hoodie and the elegant flow of the trousers.
+
+Camera Position:
+Eye-level, straight on, capturing a full-body shot of the model.
+
+Composition:
+Full-body, centered composition with ample negative space above and to the sides, ensuring the model occupies approximately 70-80% of the vertical frame. The framing should be clean and balanced.
+
+Camera Setting:
+Lens: 85mm prime. Aperture: f/8. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom (5500K). Softbox lighting setup for even, diffused illumination.

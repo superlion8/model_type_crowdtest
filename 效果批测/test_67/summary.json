@@ -1,0 +1,26 @@
+{
+  "product": "test_67.png",
+  "style_analysis": {
+    "model_style": "Y2K",
+    "background_style": "Y2K"
+  },
+  "assets": {
+    "new_model": "6.jpg",
+    "background": "22.png",
+    "old_model": "24.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

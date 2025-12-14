@@ -1,0 +1,9 @@
+clothing：Blue corduroy wide-leg pants (the product), a fitted cream-colored long-sleeve knit top, and white platform sneakers. Accessories: Small gold hoop earrings.
+
+model_pose ：Model stands gracefully on the third step from the bottom, facing slightly to the left (viewer's left) with her body angled. Her right hand gently rests on the wooden railing, and her left arm is relaxed by her side. She looks directly at the camera with a soft, engaging smile, showcasing the drape and length of the pants.
+
+Camera Position: Eye-level to the model, positioned slightly to the right of the staircase, looking across and slightly up at her to capture her full figure and the architectural details.
+
+Composition：The model is positioned off-center, adhering to the rule of thirds, with the staircase railing acting as a strong leading line from the bottom left corner towards her. The intricate wooden details and stained-glass windows are visible in the background, providing depth and natural light, without distracting from the model or the outfit. The warm tones of the wood complement the blue pants.
+
+Camera Setting：Utilize natural soft light streaming in from the stained-glass windows, creating a warm, inviting ambiance without any visible harsh shadows. Aperture f/4.5, Shutter Speed 1/160s, ISO 400. White Balance set to enhance the warm, golden hues of the wooden interior.

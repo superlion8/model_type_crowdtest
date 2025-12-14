@@ -1,0 +1,9 @@
+clothing：A fitted, fine-knit long-sleeve top in a soft cream or off-white color, paired with the gray knit midi skirt. Complete the look with dark brown or black leather ankle boots.
+
+model_pose ：Model stands gracefully, angled slightly to the left, with her left hand gently resting on the back of the white chair. Her right hand is relaxed by her side, showcasing the skirt's drape. She looks directly at the camera with a serene and confident expression, head slightly tilted. The pose should highlight the silhouette of the skirt and the overall elegance of the outfit.
+
+Camera Position: Eye-level or slightly lower, at a medium distance to capture the full body of the model and a significant portion of the background.
+
+Composition：Full body shot of the model. Model positioned slightly off-center to the left, utilizing the rule of thirds. The white chair is visible in the background on the right, providing a subtle prop and a sense of depth without dominating the frame. Ample clean negative space around the model to emphasize the minimalist aesthetic of the background.
+
+Camera Setting：Soft, diffused natural light or studio lighting mimicking natural light, ensuring even illumination without harsh shadows. Aperture: f/3.5 - f/4.5 for a slight separation between the model and the background. Shutter Speed: 1/160s or faster. ISO: 100-200 for clean image quality. White Balance: Neutral, set for natural daylight, ensuring the white walls appear clean and bright.

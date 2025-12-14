@@ -1,0 +1,26 @@
+{
+  "product": "test_41.png",
+  "style_analysis": {
+    "model_style": "少女",
+    "background_style": "少女"
+  },
+  "assets": {
+    "new_model": "5.png",
+    "background": "2.png",
+    "old_model": "28.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

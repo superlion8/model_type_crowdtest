@@ -1,0 +1,26 @@
+{
+  "product": "IMG_0880 2.JPG",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "Y2K"
+  },
+  "assets": {
+    "new_model": "white4.png",
+    "background": "32.jpg",
+    "old_model": "23.png"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "product": "test_22.png",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "复古"
+  },
+  "assets": {
+    "new_model": "Caucasian_20-25_male.jpg",
+    "background": "3.png",
+    "old_model": "34.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

@@ -1,0 +1,9 @@
+clothing：A fitted, ribbed white knit top, the white tiered lace-trim mini skirt, a soft light pink open-knit cardigan draped casually over the shoulders, and taupe knee-high boots.
+
+model_pose ：Standing, facing slightly towards the camera with a gentle, natural smile. One hand lightly touches the top of the white skirt, while the other arm is relaxed, subtly holding the cardigan. One leg is slightly bent, giving a relaxed and approachable feel, conveying a sense of lightheartedness.
+
+Camera Position:Full body shot, slightly below eye-level, capturing the model from head to toe, along with the background elements.
+
+Composition：Model positioned slightly off-center to the left, occupying the central vertical third. The suitcases with teddy bears are arranged in the lower right corner, providing context and visual interest without overwhelming the model. Ample negative space above the model for a clean, editorial look.
+
+Camera Setting：Soft, diffused studio lighting from the front and slightly to the sides to create even illumination and gentle shadows, highlighting the textures of the clothing and the model's features. Aperture f/3.5-f/4.5 to ensure both the model and the foreground elements of the background are in sharp focus, with a gentle fall-off in depth for the more distant parts of the background. Shutter speed 1/160s, ISO 100, White Balance adjusted for studio flash.

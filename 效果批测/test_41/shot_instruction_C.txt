@@ -1,0 +1,11 @@
+clothing: The yellow sweatshirt paired with high-waisted, dark wash, straight-leg denim jeans and clean white minimalist sneakers. Model's hair styled in a neat, slightly messy low bun. Small, delicate silver hoop earrings.
+
+background: Seamless light grey backdrop with a subtle gradient, darker at the bottom and lighter towards the top, providing a clean and modern aesthetic.
+
+model_pose: Model standing, facing slightly to the left (viewer's right), head turned towards the camera with a soft, confident gaze. One hand casually tucked into the front pocket of the jeans, the other arm relaxed by her side, slightly bent at the elbow. Shoulders relaxed, good posture to showcase the sweatshirt's fit and graphic.
+
+Camera Position: Eye-level with the model's chest/shoulder area.
+
+Composition: Full-body shot, centered, with adequate negative space. The model should fill approximately 60-70% of the vertical frame. Ensure the heart graphic on the sweatshirt is clearly visible and centered within the upper torso area of the frame.
+
+Camera Setting: Aperture: f/9. ISO: 100. Shutter Speed: 1/160s. Lighting: Two large softboxes for soft, even illumination – one main softbox slightly to the model's left, angled down; one fill softbox directly in front or slightly to the right at a lower power. Separate light source for background to ensure even lighting. White balance set to 5500K.

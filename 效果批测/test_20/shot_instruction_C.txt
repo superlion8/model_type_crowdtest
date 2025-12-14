@@ -1,0 +1,17 @@
+clothing:
+The model wears the black blazer (product) over a clean white ribbed knit tank top. Pair with high-waisted, relaxed-fit medium wash blue jeans and black pointed-toe leather ankle boots. Accessorize with simple gold hoop earrings and a slim black leather belt (if the blazer is styled open). The overall look should be sophisticated, minimalist, and effortlessly chic.
+
+background:
+A seamless, neutral light grey or off-white studio background. The surface should be smooth and clean, free of any imperfections or distractions.
+
+model_pose:
+Model stands confidently, facing slightly to the left, with a relaxed yet sophisticated posture. Her left hand is casually resting in the jeans pocket or gently touching the hip, while her right arm is relaxed at her side. The black blazer is worn fully on, unbuttoned, allowing the white top to show. Her gaze is direct and engaging, looking straight into the camera with a neutral, elegant expression. The pose should highlight the blazer's drape and fit.
+
+Camera Position:
+Eye-level with the model's chest, approximately 6-8 feet away, centered.
+
+Composition:
+Full-body shot, vertical orientation. The model is centered in the frame, with sufficient headroom and foot room. The blazer should be the primary focal point, clearly visible from shoulders to hem, with ample clean background space surrounding her to maintain a minimalist aesthetic.
+
+Camera Setting:
+Aperture: f/7.1, Shutter Speed: 1/160s, ISO: 100. White Balance: Custom (set to studio flash). Lighting: Soft, even, diffuse studio lighting from a large octabox positioned slightly to the left of the camera, with a large white reflector on the right to gently fill shadows, ensuring accurate color and texture rendition of the black blazer.

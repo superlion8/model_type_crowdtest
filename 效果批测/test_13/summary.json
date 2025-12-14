@@ -1,0 +1,26 @@
+{
+  "product": "test_13.png",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "高级"
+  },
+  "assets": {
+    "new_model": "Caucasian_20-30_female.png",
+    "background": "generated-image-1 (5).png",
+    "old_model": "41.png"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

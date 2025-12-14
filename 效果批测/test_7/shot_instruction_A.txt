@@ -1,0 +1,11 @@
+clothing：Model wears the orange wool pea coat (the product) over a black blazer and wide-leg trousers, with a subtle gold satin camisole underneath. Black pointed-toe shoes complete the look.
+
+background：Light grey seamless studio background, clean and minimalist, free of any shooting equipment.
+
+model_pose ：Model stands elegantly, facing slightly to the right (about 15 degrees), with her head turned to look directly into the camera. Her right arm is gently bent, with her hand subtly resting near her waist, showcasing the coat's fit. Her left arm hangs naturally, allowing the coat's full length and structure to be appreciated. Maintain a calm, sophisticated expression.
+
+Camera Position: Eye-level, approximately 2.5 meters from the model, capturing a full-body shot with sufficient headroom and foot room.
+
+Composition：Model centered in the frame, occupying approximately 70-75% of the vertical space. Ensure ample negative space around the model for a clean, editorial look. The coat should be the primary focal point.
+
+Camera Setting：Aperture: f/8-f/11 for sharp details, Shutter Speed: 1/125s, ISO: 100-200. White Balance: Custom set for studio lighting. Use a portrait or telephoto lens (e.g., 85mm or 100mm) to minimize distortion.

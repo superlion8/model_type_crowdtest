@@ -1,0 +1,6 @@
+clothing: The light grey knitted long-sleeve polo shirt (worn as the main garment), charcoal grey tailored wide-leg trousers, and black minimalist leather loafers.
+background: A seamless light grey concrete-textured wall, clean and uncluttered.
+model_pose: Model standing, facing slightly off-center (e.g., 3/4 turn to the left), with one hand casually tucked into the front pocket of the trousers, and the other arm relaxed by their side. A soft, confident gaze directed slightly below the camera lens. The posture should be relaxed but upright, showcasing the drape and fit of the polo shirt.
+Camera Position: Eye-level with the model, positioned directly in front of the model.
+Composition: Full body shot, with the model centered. Ample negative space around the model, ensuring the entire outfit from head to toe is visible, with focus on the polo shirt.
+Camera Setting: Aperture: f/9. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom (set to studio strobes). Lighting: Soft, diffused key light from slightly above and to the left, with a larger fill light from the right, ensuring even illumination and minimal harsh shadows on the garment and background.

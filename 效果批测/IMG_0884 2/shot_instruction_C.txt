@@ -1,0 +1,21 @@
+clothing:
+The model wears the featured grey wide-leg sweatpants. Paired with a sleek, fine-gauge knit mock-neck sweater in an ivory or soft oat color for an elevated casual aesthetic. For footwear, polished black leather loafers to maintain a sophisticated edge. Minimalist accessories include a delicate gold chain necklace and small stud earrings.
+
+background:
+A seamless, matte light greige or warm off-white studio background. This provides a clean, sophisticated, and neutral canvas that highlights the garment without distraction, creating a high-end feel.
+
+model_pose:
+The model stands tall and confident, with her weight subtly shifted to one leg. One hand is casually slipped into the pocket of the wide-leg pants, while the other arm hangs naturally by her side, slightly bent at the elbow. One foot is placed slightly forward, allowing the wide leg of the pants to drape elegantly and showcase their full cut and material. Her gaze is soft and engaging, directed slightly off-camera, conveying a relaxed yet refined demeanor.
+
+Camera Position:
+Full-body shot, camera positioned at the model's eye level or slightly below, capturing the entire outfit from head to toe.
+
+Composition:
+Vertical orientation, with the model centered within the frame, allowing ample negative space around her to emphasize the clean lines and drape of the clothing. The entire garment, especially the wide-leg pants, is clearly visible and well-defined against the background.
+
+Camera Setting:
+Aperture: f/8-f/11 for sharp focus on both the model's face and the garment details.
+ISO: 100-200 for minimal noise.
+Shutter Speed: 1/160s-1/200s to ensure sharpness and freeze any subtle movement.
+White Balance: Custom or Flash setting for accurate color rendition.
+Lighting: Soft, even studio lighting using large softboxes for a flattering, shadow-minimizing effect, highlighting the fabric texture of the pants.

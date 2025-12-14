@@ -1,0 +1,11 @@
+clothing：The model should wear the beige knitted wide-leg pants. Pair them with a cream-colored, fine-gauge knit mock-neck sweater. Drape an oversized, tailored camel-colored wool coat over her shoulders. For footwear, select sleek off-white or light beige leather loafers. Her hair should be styled in a neat low bun, and makeup should be natural and luminous.
+
+background：A seamless, light warm grey studio background, providing a soft, sophisticated contrast without being stark.
+
+model_pose ：Model stands in a relaxed, confident pose, slightly angled (3/4 turn) to the camera. One hand is casually tucked into a pant pocket, while the other arm hangs naturally, allowing the coat to drape elegantly over her shoulders. Her head is slightly turned towards the camera, maintaining a calm and composed expression. This pose highlights the luxurious drape and texture of the wide-leg pants and the overall sophisticated silhouette.
+
+Camera Position: Eye-level, full body shot.
+
+Composition：The model is centered within the frame, occupying approximately two-thirds of the vertical space, with ample clean negative space above and to the sides to emphasize the clothing and maintain a minimalist, high-end aesthetic.
+
+Camera Setting：Aperture: f/9 for sharp focus on the entire outfit. ISO: 100 for minimal noise. Shutter Speed: 1/125s, synchronized with studio strobes. White Balance: Custom, set to studio lighting. Lighting: Soft, diffused key light from a large octabox slightly to the front-side, with a fill light on the opposite side to soften shadows, and a subtle hair/rim light from behind for separation.

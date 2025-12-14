@@ -1,0 +1,11 @@
+clothing：Fitted black crew-neck t-shirt, dark wash straight-leg jeans, black leather Chelsea boots. Minimalist silver ring on one hand.
+
+background：Dark grey, subtly textured concrete wall, providing a modern and sophisticated urban backdrop.
+
+model_pose ：Model stands confidently in a 3/4 front view, body slightly angled towards the camera. One hand casually tucked into a jacket pocket, the other arm relaxed by their side, subtly holding the jacket hem. Head slightly turned with direct, confident eye contact.
+
+Camera Position: Eye-level, approximately 9 feet (2.7 meters) from the model, centered horizontally.
+
+Composition：Full body shot. Model positioned slightly to the right of the frame, adhering to the rule of thirds with the model's eyes on the upper third line. Ample clean negative space around the model, with the jacket as the clear focal point.
+
+Camera Setting：Key light: Large octabox to camera left. Fill light: Softbox to camera right. Aperture: f/9. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom (5500K). Lens: 85mm prime.

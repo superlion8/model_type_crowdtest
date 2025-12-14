@@ -1,0 +1,26 @@
+{
+  "product": "test_81.png",
+  "style_analysis": {
+    "model_style": "Y2K",
+    "background_style": "Y2K"
+  },
+  "assets": {
+    "new_model": "6.jpg",
+    "background": "32.jpg",
+    "old_model": "14.png"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": false,
+      "error": "图像生成失败"
+    },
+    "task_c": {
+      "success": false,
+      "error": "图像生成失败"
+    }
+  }
+}

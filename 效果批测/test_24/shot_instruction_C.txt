@@ -1,0 +1,11 @@
+clothing: Model wears a cream-colored, fine-knit turtleneck sweater tucked into high-waisted, wide-leg ivory wool trousers. On her feet, she wears minimalist off-white leather ankle boots. The shearling jacket is worn open over this outfit. Her hair is loosely tied back, and makeup is natural with a focus on clean skin and a subtle lip.
+
+background: A seamless, light warm-grey paper backdrop with a soft, diffused gradient from slightly darker at the top to lighter at the bottom. The background is clean and uncluttered, emphasizing the product.
+
+model_pose: Model stands confidently, facing slightly to the left (about 15 degrees off-center), with her left shoulder slightly forward. Her right hand is casually placed in the jacket's pocket, allowing the jacket to drape naturally and slightly open, revealing the inner outfit. Her left arm is relaxed at her side. Head is turned slightly towards the camera, with a calm, neutral expression.
+
+Camera Position: Eye-level with the model's chest, approximately 8-10 feet (2.5-3 meters) away from the model, using a prime lens (e.g., 85mm or 100mm) for minimal distortion.
+
+Composition: Full-body shot, vertical orientation. The model is centered in the frame, with generous negative space above her head and below her feet, allowing the jacket's length and overall silhouette to be clearly visible. The frame cuts just above her head and just below her feet.
+
+Camera Setting: Aperture: f/9-f/11 for optimal depth of field and sharpness across the garment. ISO: 100-200 for minimal noise. Shutter Speed: 1/125s - 1/160s (sync speed with strobes). White Balance: Custom set for studio strobes (e.g., 5500K). Lighting: Softbox on camera-right as key light, large fill light on camera-left, and a subtle hair/rim light from behind-right to add dimension to the jacket's texture.

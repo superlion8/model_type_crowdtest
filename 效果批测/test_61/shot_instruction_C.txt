@@ -1,0 +1,11 @@
+clothing：A fitted, ribbed white crew-neck t-shirt as an inner layer. High-waisted, dark grey tailored wide-leg trousers. Black polished leather loafers. A simple, thin silver chain necklace with a small, understated pendant.
+
+background：A seamless, matte light grey studio wall with very subtle, even lighting to create a soft, clean, and minimalist backdrop.
+
+model_pose ：Model stands with her body angled slightly to the right (approximately 3/4 turn from the camera), left hand casually inserted into the left trouser pocket, right arm relaxed naturally by her side. Her head is turned slightly towards the camera, maintaining a confident, neutral expression. The pose should appear relaxed yet poised, showcasing the jacket's fit and the overall silhouette.
+
+Camera Position:Full-body shot, positioned slightly below the model's eye level to emphasize her stature and the garment's presence.
+
+Composition：The model is centered in the frame, with generous negative space above her head and below her feet. The top of her head aligns with the upper third line, and her feet are positioned just above the bottom third line, adhering to the rule of thirds for a balanced and aesthetically pleasing composition.
+
+Camera Setting：Aperture: f/7.1, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom (set to studio lighting).

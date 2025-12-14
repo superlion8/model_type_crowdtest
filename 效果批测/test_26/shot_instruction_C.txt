@@ -1,0 +1,11 @@
+clothing： The light blue striped long-sleeve shirt (product) is paired with high-waisted, wide-leg tailored trousers in a charcoal grey. The model wears minimalist black leather loafers. Hair is styled in a sleek low ponytail, and accessories are kept minimal, such as small silver stud earrings.
+
+background： A seamless, light grey studio backdrop, subtly lit to create a soft gradient, providing a clean and sophisticated environment.
+
+model_pose ： Model stands in a relaxed yet confident full-body pose, slightly angled to a 3/4 view. One hand is casually tucked into the trouser pocket, while the other arm is relaxed by her side. Her head is gently turned towards the camera with a calm, neutral expression, allowing the shirt's details and fit to be clearly showcased.
+
+Camera Position: Eye-level, full-body shot of the model.
+
+Composition： Model is centered in the frame with ample negative space around her, ensuring the focus remains entirely on the outfit and the product shirt. The frame allows for a slight crop above the head and below the feet to maintain a balanced, clean aesthetic.
+
+Camera Setting： ISO 100, f/9, 1/160s. Lighting consists of a large main softbox positioned slightly to the model's left, and a softer fill light on the right, creating even, flattering illumination with subtle shadows to add depth.

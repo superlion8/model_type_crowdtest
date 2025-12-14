@@ -1,0 +1,9 @@
+clothing：Cream long-sleeved blouse with lace detail, mustard yellow chunky knit cardigan, black wide-leg knitted pants, dark brown ankle boots.
+
+model_pose ：Model stands naturally beside the wooden table, body slightly turned towards the camera. One hand gently rests on the table surface, while the other is relaxed at her side, subtly showcasing the drape of the wide-leg pants. Maintain a soft, approachable expression, looking directly at the camera.
+
+Camera Position: Eye-level with the model, positioned to capture a full-body shot from just above her head to her feet.
+
+Composition：Model positioned slightly off-center to the left, with the wooden table extending from the right side of the frame, creating a balanced and visually appealing composition. The floral carpet and plain wall provide a clean, warm background.
+
+Camera Setting：Aperture: f/8.0, ISO: 100, Shutter Speed: 1/160s, White Balance: Daylight. Use soft, diffused lighting to ensure even illumination and avoid harsh shadows, creating a clear, professional image.

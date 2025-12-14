@@ -1,0 +1,9 @@
+clothing：Dark green oversized hoodie, light beige wide-leg trousers, cream sneakers.
+
+model_pose ：Model is sitting casually on one of the metal stools, facing slightly towards the window. Her left arm is resting lightly on the wooden counter, and her right hand is gently holding a simple ceramic coffee cup. Her gaze is soft and relaxed, looking slightly out the window or down at the cup, conveying a contemplative and comfortable mood.
+
+Camera Position: Eye-level with the model, positioned slightly to the right of the center, looking towards the model and the window light.
+
+Composition：The model is positioned on the left side of the frame, adhering to the rule of thirds. The natural light from the window softly illuminates her from the side, highlighting the texture of the hoodie and her face. The rustic wall and wooden shelf with minimal decor (cups, small vase with flower) fill the background, creating depth and context without distracting from the model. The lines of the counter and stools lead the eye towards the model.
+
+Camera Setting：Natural light from the window. Aperture: f/3.2. Shutter Speed: 1/200s. ISO: 200. White Balance: Custom (set to enhance warm, earthy tones).

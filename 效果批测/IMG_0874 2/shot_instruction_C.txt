@@ -1,0 +1,11 @@
+clothing：Navy blue corduroy midi skirt (product), paired with a fitted charcoal grey fine-gauge knit turtleneck sweater, tucked in. A long, oversized, tailored black wool blazer is worn over the sweater. Sleek black leather ankle boots with a moderate block heel. Minimalist silver stud earrings and a delicate silver chain necklace.
+
+background：A seamless, subtly textured dark grey concrete wall, providing a modern and sophisticated backdrop with clean lines and no distractions.
+
+model_pose ：Standing, body slightly angled to the left (3/4 view) with the left foot slightly forward, creating a subtle dynamic. The right hand is casually in the blazer pocket, while the left arm hangs relaxed by her side, fingers gently splayed. Head slightly turned towards the camera with a confident yet thoughtful expression. This pose highlights the skirt's length and texture while showcasing the overall outfit's sophisticated silhouette.
+
+Camera Position:Eye-level, straight on, capturing a full body shot of the model.
+
+Composition：Full body shot. The model is positioned slightly off-center to the right, allowing for balanced negative space on the left. Ample breathing room above her head and below her feet, ensuring the entire outfit is visible without feeling cramped.
+
+Camera Setting：Aperture: f/8. ISO: 100. Shutter Speed: 1/160s. White Balance: Custom (calibrated to studio lighting, e.g., 5500K).

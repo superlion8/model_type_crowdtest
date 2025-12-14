@@ -1,0 +1,26 @@
+{
+  "product": "IMG_0870 2.JPG",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "少女"
+  },
+  "assets": {
+    "new_model": "30+.png",
+    "background": "9.png",
+    "old_model": "18.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

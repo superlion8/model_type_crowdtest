@@ -1,0 +1,17 @@
+clothing：
+A fitted, fine-gauge black knit turtleneck top paired with high-waisted, wide-leg tailored black trousers. Sleek black leather ankle boots with a subtle heel. Minimalist gold hoop earrings and a delicate gold pendant necklace.
+
+background：
+A clean, seamless studio background in a warm, muted greige (light grey-beige) color, featuring a very subtle, almost imperceptible plaster texture to add depth and sophistication. The lighting is soft, even, and diffused, mimicking natural daylight.
+
+model_pose ：
+The model stands facing slightly to the left (approximately 15 degrees from the camera), with her weight subtly shifted to her back leg, creating a gentle S-curve in her posture. One hand is casually tucked into the front pocket of her trousers, allowing the cardigan to drape open slightly to reveal the inner turtleneck. Her other arm hangs relaxed by her side, lightly holding the cardigan's edge. Her head is turned gently towards the camera, maintaining a soft, confident, and direct gaze.
+
+Camera Position:
+Full body shot, positioned slightly below the model's eye level to enhance her stature and present the entire outfit elegantly.
+
+Composition：
+Vertical orientation. The model is centered within the frame, ensuring ample negative space above her head and below her feet for a clean, balanced, and premium aesthetic. The cardigan is fully visible and is the undisputed focal point of the image.
+
+Camera Setting：
+**Lighting:** Soft, diffused studio lighting from two large octaboxes positioned at 45-degree angles to the model, slightly above eye level, to create even illumination with subtle dimensionality and highlight the cardigan's texture. **Lens:** 85mm prime lens. **Aperture:** f/5.6. **Shutter Speed:** 1/160 sec. **ISO:** 100. **White Balance:** Custom white balance set to a neutral grey card.

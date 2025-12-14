@@ -1,0 +1,9 @@
+clothing: Navy blue short-sleeved polka dot dress (the product), white sneakers.
+
+model_pose: The model stands facing the camera, with a gentle smile. One hand is casually placed on her hip, while the other arm is relaxed by her side, showcasing the full length and fit of the dress. Her head is slightly tilted.
+
+Camera Position: Eye-level, full-body shot, centered on the model.
+
+Composition: Full body shot of the model, centered in the frame. Ensure ample negative space around the model, with the dress clearly visible from top to bottom against the plain light grey background.
+
+Camera Setting: Studio lighting with soft, even illumination to eliminate harsh shadows. Aperture at f/9-f/11 for sharp focus on the entire dress. Shutter speed 1/125s, ISO 100-200. White balance set for studio conditions to ensure accurate color representation.

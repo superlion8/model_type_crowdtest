@@ -1,0 +1,9 @@
+clothing：Light grey knitted polo shirt, beige oversized blazer, blue wide-leg jeans, black leather belt, black pointed-toe boots.
+
+model_pose：The model stands confidently, facing slightly towards the camera with a relaxed posture. One hand is casually placed in a jeans pocket, while the other arm hangs naturally. The beige blazer is worn properly on both shoulders, with the collar of the knitted polo shirt visible.
+
+Camera Position：Full body shot, eye-level, centered on the model.
+
+Composition：Vertical orientation, the model occupies the central third of the frame, with generous white space above and to the sides. Ensure the entire outfit from head to toe is visible.
+
+Camera Setting：Aperture priority mode (f/4.0-f/5.6) for sharp focus on the model with a subtly soft background. ISO 100-200. Shutter speed adjusted for proper exposure (e.g., 1/125s - 1/250s). White balance set to daylight or custom for accurate color rendition. Soft, even lighting to highlight fabric textures, avoiding harsh shadows.

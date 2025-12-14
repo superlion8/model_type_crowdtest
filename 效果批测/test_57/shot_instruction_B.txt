@@ -1,0 +1,9 @@
+clothing：Model wears the pink midi dress from image 1, layered with the cream duffle coat from image 2. She also wears the pink high-heeled sandals from image 1.
+
+model_pose ：Model sits gracefully on the very top mattress, facing slightly towards the camera. Her right hand gently rests on her lap or strokes the white cat beside her. Her left hand can be subtly adjusted to showcase the fabric of the coat or dress. She has a serene, slightly whimsical expression, perhaps a gentle smile. The duffle coat is worn over the pink dress, possibly with the front toggles slightly undone to reveal parts of the dress underneath.
+
+Camera Position: Eye-level with the model's upper body as she sits on the stacked mattresses.
+
+Composition：Medium full shot. The model is positioned centrally on the stacked mattresses, which fill the lower two-thirds of the frame. The white cat and pink bunny plush toy are visible next to her on the top mattress. The background is clean white, with the mattress stack as the primary prop.
+
+Camera Setting：Soft, diffused studio lighting from the front and slightly above, ensuring even illumination and minimal harsh shadows. Aperture f/4 for a gentle background blur while keeping the coat and model sharp. ISO 100. Shutter speed 1/160s. White balance set for studio strobes.

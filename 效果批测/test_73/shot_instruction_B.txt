@@ -1,0 +1,14 @@
+clothing：
+A white ruffled high-neck long-sleeve knit top (the product), paired with a high-waisted pleated midi skirt in a soft pastel pink or cream color. Delicate cream or nude block heels. Small pearl stud earrings.
+
+model_pose：
+Model is seated gracefully on the pink velvet sofa, facing slightly towards the window. Her body is angled to showcase the sweater's fit and ruffled details. One hand gently rests on her lap, while the other is subtly lifted to delicately touch her neck or hair, highlighting the ruffled collar and cuff of the sweater. Her gaze is soft and contemplative, looking slightly past the camera towards the window, evoking a dreamy and elegant mood.
+
+Camera Position：
+Medium shot, positioned slightly above eye-level, angled gently downwards to capture the model from mid-thigh up, including a significant portion of the sofa and the flowing curtains from the window in the background.
+
+Composition：
+The model is placed off-center, adhering to the rule of thirds, with the window and its flowing sheer curtain filling the background space, creating depth and a soft, romantic atmosphere. The pink sofa acts as a natural prop and adds to the aesthetic. Ensure the ruffled collar and cuffs of the sweater are clearly visible and well-framed within the composition.
+
+Camera Setting：
+Aperture: f/3.5 - f/4.5 to achieve a soft background blur while maintaining sharp focus on the model and the sweater. Shutter Speed: 1/160s - 1/250s to ensure crispness. ISO: 100 - 200 for optimal image quality. White Balance: Custom or "Shade" preset to enhance the warm, soft tones of the room. Lighting: Soft, diffused natural light emanating from the window, creating gentle highlights and minimal, soft shadows, without any visible artificial light sources.

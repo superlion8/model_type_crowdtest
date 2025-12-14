@@ -1,0 +1,11 @@
+clothing： The model wears the navy blue short-sleeved polka dot dress. Paired with clean white minimalist canvas sneakers. No visible accessories other than small silver stud earrings. Her long red curly hair is styled naturally, flowing loosely around her shoulders. Makeup is fresh, natural, and dewy with a soft, natural lip color.
+
+background： A seamless light greige (grey-beige) paper backdrop, evenly lit to create a soft, uniform, and clean appearance. The subtle warmth of the greige provides a sophisticated neutral tone that complements the model's complexion and hair, while making the navy dress pop without harsh contrast.
+
+model_pose ： Model stands in a relaxed three-quarter turn to the camera's left, with her weight shifted slightly onto her back leg. Her front leg is gently bent, and her foot is relaxed or slightly pointed. Her left arm is casually bent at the elbow, with her hand resting gently on her hip, showcasing the dress's waistline and drape. Her right arm hangs naturally by her side. Her head is slightly tilted towards the camera, and she has a soft, confident, and inviting expression, looking directly or slightly past the lens. This pose highlights the dress's silhouette, details, and comfortable fit.
+
+Camera Position: Full-body shot. Camera positioned at the model's eye level, approximately 8-10 feet away, capturing her from head to toe with sufficient headroom and foot room.
+
+Composition： The model is positioned slightly off-center to the right side of the frame, adhering to the rule of thirds, creating a dynamic yet balanced composition. Ample negative space surrounds her, emphasizing the product and maintaining a clean, premium aesthetic. The frame includes her entire body, with a comfortable margin above her head and below her feet.
+
+Camera Setting： Aperture: f/9. ISO: 100. Shutter Speed: 1/160s. White Balance: Custom set to studio strobes (e.g., 5500K) for accurate color.

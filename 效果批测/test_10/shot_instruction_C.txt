@@ -1,0 +1,6 @@
+clothing：Black quilted jacket (product), dark charcoal fine-gauge knit crew-neck sweater, dark navy tailored midi skirt, black ankle socks, black leather loafers.
+background：A clean, minimalist studio background featuring a light, warm grey textured plaster wall.
+model_pose ：Model stands with a relaxed, confident posture, weight slightly shifted to one leg. One hand casually tucked into the jacket pocket, the other arm relaxed by her side. Head slightly tilted, looking directly at the camera with a neutral yet engaging expression.
+Camera Position: Eye-level to slightly below eye-level (chest height of the model), straight on.
+Composition：Full-body shot, centered. The model occupies the central vertical third of the frame, with ample negative space above and to the sides to highlight the product and create a clean, balanced aesthetic.
+Camera Setting：ISO 100, Aperture f/9, Shutter Speed 1/160 sec, White Balance Daylight (5500K).

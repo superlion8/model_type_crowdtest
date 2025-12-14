@@ -1,0 +1,11 @@
+clothing：Model wears the wide-leg, paint-splattered jeans. Paired with a fitted, high-neck, off-white ribbed knit top, tucked in. An oversized, light grey linen blazer is casually draped over her shoulders. Finish the look with sleek black leather pointed-toe ankle boots and minimalist gold hoop earrings. A thin black leather belt cinches the waist.
+
+background：A subtly textured, light concrete or plaster wall in a neutral grey tone. The surface should appear clean and sophisticated, with no visible studio equipment, providing a modern, minimalist, and slightly industrial backdrop.
+
+model_pose ：Model stands confidently, full body, facing slightly left at a 3/4 angle, head turned directly towards the camera. One hand casually slips into the front left pocket of the jeans, subtly pulling the fabric to emphasize the wide leg and drape. The other arm hangs naturally, resting lightly on the blazer. Weight is gently shifted onto the back leg, creating a relaxed yet poised posture that highlights the jeans' silhouette. A natural, sophisticated expression.
+
+Camera Position: Eye-level or slightly below eye-level, centered, capturing the full body from head to toe.
+
+Composition：Full body shot, with the model centrally framed or slightly to the left of center, adhering to the rule of thirds for visual balance. Ample negative space above the head and around the sides to maintain a clean, high-end aesthetic. The jeans are the primary focus, showcased clearly from waist to hem.
+
+Camera Setting：Aperture: f/7.1 for sharp detail throughout the outfit. Shutter Speed: 1/160s. ISO: 100 for maximum image clarity. Lens: 85mm prime lens for flattering perspective and minimal distortion. White Balance: Custom White Balance (neutral).

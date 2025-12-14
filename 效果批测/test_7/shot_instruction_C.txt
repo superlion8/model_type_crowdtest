@@ -1,0 +1,11 @@
+clothing：Mustard yellow double-breasted peacoat (the product). Underneath, a sleek black turtleneck sweater and tailored black wide-leg trousers. Polished black leather ankle boots. Hair pulled back in a neat low ponytail.
+
+background：Seamless, matte light warm grey studio background, creating a clean, sophisticated, and minimalist aesthetic.
+
+model_pose ：Model stands with a confident yet relaxed posture, body angled slightly (approximately 3/4 view) towards the camera to showcase the coat's silhouette and details. The peacoat is buttoned. One hand is casually slipped into a coat pocket, while the other arm hangs relaxed at her side. Model's gaze is direct and poised, conveying an air of sophisticated confidence.
+
+Camera Position: Eye-level, capturing the model from head to toe.
+
+Composition：Full-body shot with the model positioned slightly off-center to the left, adhering to the rule of thirds. Ample negative space surrounds the model to enhance the minimalist and premium feel. The peacoat is sharply in focus and well-lit as the primary subject.
+
+Camera Setting：Aperture: f/5.6. ISO: 100. Shutter Speed: 1/160s. White Balance: Custom calibrated for studio strobe lighting (approx. 5500K). Lighting: Soft, even studio strobe lighting with large octaboxes for flattering, shadow-free illumination, emphasizing the wool texture of the coat.

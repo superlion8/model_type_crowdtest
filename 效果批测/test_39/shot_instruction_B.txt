@@ -1,0 +1,9 @@
+clothing：Polo Ralph Lauren camel cable-knit bomber jacket (open or partially button扣), simple white fitted round-neck t-shirt, dark brown cargo pants, dark brown sleek leather loafers, minimalist dark belt (if needed).
+
+model_pose ：模特自信站立，身体略微向右侧转动（3/4侧身），目光直视镜头，保持冷静、时尚的表情。一只手随意插在裤袋中，另一只手臂自然垂放或轻抚夹克下摆，展现夹克的宽松版型和针织纹理。
+
+Camera Position: 与模特视线齐平或略低，以全身或七分身构图，凸显服装整体造型。
+
+Composition：将模特置于画面中央偏左或偏右，遵循三分法构图。背景保持简洁，确保白色墙面、银色踢脚线和水泥地面清晰可见，但不对模特和商品造成干扰。
+
+Camera Setting： 柔和均匀的棚内布光，模拟自然光效，避免强烈阴影。光圈 f/5.6，快门速度 1/125s，ISO 100，白平衡根据现场灯光校准。

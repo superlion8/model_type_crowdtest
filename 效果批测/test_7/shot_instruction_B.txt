@@ -1,0 +1,14 @@
+clothing：
+Model wears a mustard yellow double-breasted wool-blend coat, buttoned up, over a black oversized blazer and matching wide-leg trousers. Inside the blazer, a golden satin camisole is visible. Black flat shoes complete the look.
+
+model_pose ：
+Model stands confidently, facing slightly to the left, with her head turned towards the camera. One hand gently rests on the coat's lapel or in a coat pocket, showcasing the coat's texture and silhouette. Her posture is elegant and composed.
+
+Camera Position:
+Eye-level, full-body shot, capturing the model from head to toe.
+
+Composition：
+Model is centered within the frame, with balanced negative space around her. The silver trim at the bottom of the white wall and a portion of the concrete floor are visible, grounding the image without distracting from the model.
+
+Camera Setting：
+Aperture: f/5.6; Shutter Speed: 1/160s; ISO: 100. Soft, diffused studio lighting from the front and slightly to the sides, ensuring even illumination and minimal harsh shadows. White balance set for neutral tones.

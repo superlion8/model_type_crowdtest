@@ -1,0 +1,11 @@
+clothing：Model wears a fine-gauge black turtleneck sweater and tailored charcoal grey wide-leg trousers. For footwear, sleek black leather ankle boots. Her long red hair is styled in soft, natural waves, and makeup is natural with a focus on defined brows and a soft lip.
+
+background：Seamless, matte light grey studio background. Clean, minimalist, and well-lit to highlight the product without distraction.
+
+model_pose ：Model stands gracefully, slightly angled to the camera, with a confident yet relaxed posture. One hand is casually placed in the coat's pocket, allowing the coat to drape naturally and showcase its silhouette. The other arm is relaxed by her side or gently touches the lapel. Her gaze is direct and poised, conveying sophistication.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model, capturing a full-body shot.
+
+Composition：Full-body shot, centered, with adequate negative space around the model to emphasize the coat's elegant lines and minimalist design. The model fills approximately 60-70% of the frame vertically.
+
+Camera Setting：Aperture: f/9. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom (studio flash). Lens: 85mm prime lens for flattering perspective and sharp detail.

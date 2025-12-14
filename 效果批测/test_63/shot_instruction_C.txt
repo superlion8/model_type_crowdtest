@@ -1,0 +1,11 @@
+clothing：A deep cream silk-blend fine-knit turtleneck top, paired with tailored charcoal grey wide-leg trousers. Complete the look with sleek black leather ankle boots and minimalist gold hoop earrings with a delicate gold chain necklace.
+
+background：Seamless warm light grey paper background, clean and evenly lit.
+
+model_pose ：Model stands full-body, facing slightly towards the camera's right, with her head turned to look directly into the lens. Her left hand is casually tucked into the pocket of her trousers, while her right arm is relaxed by her side, allowing the cardigan to drape naturally and showcase its texture and cut. Maintain a subtle, confident, and sophisticated expression.
+
+Camera Position: Eye-level, straight on, capturing the full body of the model from head to toe.
+
+Composition：Model centered in the frame, full-body shot, with ample negative space above and to the sides to create a clean, high-end aesthetic. The cardigan should be the clear focal point.
+
+Camera Setting：Aperture: f/8.0-f/11 for sharp focus throughout the garment. ISO: 100-200 for minimal noise. Shutter Speed: 1/125s - 1/160s to ensure sharpness. White Balance: Custom white balance set to studio strobes. Lighting: Softbox lighting from both sides and slightly above, with a subtle fill light from the front, to create even, shadowless illumination that highlights the fabric texture.

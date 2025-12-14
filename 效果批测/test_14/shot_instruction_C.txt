@@ -1,0 +1,11 @@
+clothing：A high-neck, fitted dark charcoal grey knit top, paired with tailored black wide-leg trousers. For footwear, dark brown polished leather ankle boots with a subtle heel. Minimalist gold stud earrings.
+
+background：A seamless, light greige (grey-beige) studio background, providing a clean, sophisticated, and neutral canvas that complements the coat's color and texture without distraction.
+
+model_pose ：The model stands with a subtle 3/4 turn to the right, looking directly at the camera with a calm, confident expression. One hand is gently raised, fingers lightly touching the coat's stand collar, subtly drawing attention to its design. The other hand is relaxed, resting naturally in the trouser pocket. The pose should convey quiet elegance and highlight the coat's drape and structure.
+
+Camera Position: Eye-level, straight on, capturing the full body of the model and the coat from head to toe, with ample negative space around.
+
+Composition：Centered composition, with the model occupying the central vertical third of the frame, ensuring the coat is the primary focus. Sufficient headroom and footroom to maintain a clean, balanced aesthetic.
+
+Camera Setting：ISO 100, Aperture f/9, Shutter Speed 1/160s. White Balance set to custom for studio strobes (approx. 5500K). Soft, even studio lighting using a large octabox as the key light positioned slightly off-center and a large reflector or fill light on the opposite side to gently lift shadows and emphasize the coat's texture.

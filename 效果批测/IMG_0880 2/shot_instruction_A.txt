@@ -1,0 +1,11 @@
+clothing： A slightly oversized, cream-colored knitted sweater with a relaxed fit, paired with the wide-leg, distressed, paint-splattered denim jeans, and finished with white chunky sneakers. Minimalist silver chain necklace.
+
+background： A light beige, subtly textured studio wall (e.g., fine plaster or limewash effect), clean and free of any visible shooting equipment, providing a soft, natural, and slightly rustic backdrop.
+
+model_pose ： The model stands naturally, facing slightly towards the camera. One hand casually rests in a front pocket of the jeans, while the other arm hangs relaxed by her side. One leg is slightly bent at the knee, allowing the wide-leg jeans to drape and showcase their full silhouette and texture. She maintains a soft, engaging smile, looking directly into the camera.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model, capturing a full-body shot.
+
+Composition： Full-body centered composition, with the model occupying about 75% of the vertical frame. Ample negative space above her head and below her feet ensures a clean, balanced presentation of the entire outfit and the model.
+
+Camera Setting： Aperture: f/6.3. Shutter Speed: 1/160s. ISO: 100. White Balance: Daylight. Lighting: Soft, diffused studio lighting from the front and slightly to the sides, mimicking even natural daylight, to highlight the fabric textures and details of the jeans without harsh shadows.

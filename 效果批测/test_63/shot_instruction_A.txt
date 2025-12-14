@@ -1,0 +1,17 @@
+clothing：
+Model wears the dark speckled chunky knit cardigan (product item) unbuttoned over a fitted black long-sleeve top. Paired with dark green wide-leg trousers and black ankle boots.
+
+background：
+Light grey seamless studio background, clean and uncluttered.
+
+model_pose ：
+Model stands with body slightly angled to the left (about 3/4 view), left shoulder subtly forward. Head is turned towards the camera with a soft, confident expression. Left hand is gently placed on the left hip, while the right arm hangs naturally by the side, showcasing the cardigan's drape and texture.
+
+Camera Position:
+Eye-level, approximately 1.8 meters from the model.
+
+Composition：
+Full-body shot. Model positioned centrally, occupying roughly two-thirds of the vertical frame, allowing for balanced negative space above the head and below the feet.
+
+Camera Setting：
+Aperture: f/9-f/11 for sharp detail. ISO: 100. Shutter Speed: 1/160s. White Balance: Custom (calibrated for studio strobes).

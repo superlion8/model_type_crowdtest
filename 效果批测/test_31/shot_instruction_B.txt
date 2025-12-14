@@ -1,0 +1,9 @@
+clothing： The model wears the patterned sweater (from image 2) as the main top, paired with the beige wide-leg trousers (from image 1) and the beige pointed-toe flats (from image 1). Simple gold hoop earrings (from image 1) complete the look.
+
+model_pose ： Standing upright, facing slightly towards the camera. One hand is lightly tucked into the front pocket of the trousers, while the other arm hangs relaxed by the side. Shoulders are relaxed, head held high with a calm, direct gaze.
+
+Camera Position: Eye-level, positioned for a full-body shot that captures the model from head to toe.
+
+Composition： The model is centered in the frame. There is ample clean white space above and to the sides of the model, consistent with the provided background. The grey floor line of the background is visible at the bottom of the frame, providing a subtle base.
+
+Camera Setting： Aperture f/8-f/11 for sharp focus across the entire outfit. Shutter speed 1/125s. ISO 100-200 for minimal noise. White balance set to neutral (e.g., Daylight or Custom White Balance) to ensure accurate color reproduction of the clothing. Lighting is soft and even, using large softboxes from the front and sides to eliminate harsh shadows and provide uniform illumination on the model and clothing, with the background evenly lit without hot spots or fall-off.

@@ -1,0 +1,17 @@
+clothing:
+Model wears a sleek, fitted black turtleneck top under the coat, paired with tailored black slim-fit trousers. For footwear, black leather ankle boots with a subtle heel. Minimal accessories: perhaps small, delicate gold stud earrings to complement the coat's luxurious feel without competing.
+
+background:
+A seamless, warm, muted taupe or greige color paper backdrop, providing a sophisticated, clean, and understated canvas that allows the vibrant colors and texture of the tweed coat to stand out without distraction.
+
+model_pose:
+Model stands in a confident, elegant posture, angled slightly (approximately 3/4 view) towards the camera. One hand is casually slipped into a coat pocket, while the other arm hangs naturally by her side, slightly bent at the elbow. Her head is held high, with a subtle, serene expression, looking directly into the lens. This pose showcases the coat's full length, silhouette, and intricate details.
+
+Camera Position:
+Eye-level, approximately 8-10 feet from the model, centered to capture a full-body shot.
+
+Composition:
+Full-body shot, with the model centered or slightly offset to the left or right of the frame, adhering to the rule of thirds. Ample headroom and footroom to ensure a clean, balanced composition. The focus is sharp on the model and the coat, ensuring all details are crisp.
+
+Camera Setting:
+Aperture: f/8-f/11 for optimal sharpness across the entire garment. Shutter Speed: 1/160s to 1/200s to ensure no motion blur. ISO: 100-200 for clean image quality. White Balance: Custom set to studio lights. Lens: 85mm prime lens for flattering perspective and minimal distortion.

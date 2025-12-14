@@ -1,0 +1,11 @@
+clothing：The model is wearing the sage green quarter-zip knitted sweater (the product) styled oversized, over a fitted white ribbed tank top. Paired with high-waisted, dark-wash straight-leg denim jeans. On her feet are classic dark brown leather loafers. Accessories include delicate small gold hoop earrings and a thin gold chain necklace. Her hair is styled in soft, natural waves, and makeup is fresh and natural.
+
+background：A seamless, warm light grey wall with a subtle, very fine plaster texture to add depth and sophistication without distracting from the model or product.
+
+model_pose ：Standing, full-body shot. The model is slightly turned to her left (viewer's right), looking confidently towards the camera with a relaxed, approachable expression. Her right hand is casually tucked into the front pocket of her jeans, and her left hand is gently adjusting the quarter-zip collar of the sweater. This pose highlights the oversized fit, the sweater's texture, and the overall relaxed-chic aesthetic.
+
+Camera Position:Eye-level, capturing a full-body shot of the model from head to toe, with a comfortable amount of negative space above and below.
+
+Composition：The model is positioned slightly off-center, adhering to the rule of thirds, creating a dynamic yet balanced frame. Ample negative space surrounds the model, particularly on the side she is subtly turned towards, emphasizing the product and the overall outfit. The frame is clean and uncluttered.
+
+Camera Setting：Aperture: f/9; ISO: 100; Shutter Speed: 1/160s; White Balance: Custom (set for studio flash).

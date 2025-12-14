@@ -1,0 +1,11 @@
+clothing: The model wears the gray zippered hooded sweater (product) partially unzipped, revealing a plain white crew-neck t-shirt underneath. This is paired with high-waisted, wide-leg tailored trousers in charcoal gray. Finish the look with sleek black leather loafers.
+
+background: Seamless, matte light greige (gray-beige) paper background, clean and uniformly lit to create a soft, even tone without harsh shadows.
+
+model_pose: Model stands relaxed with a slight weight shift to her left leg. Her right hand is casually tucked into the pocket of her trousers, while her left hand is gently resting by her side, allowing the hoodie to drape naturally. She looks slightly off-camera to her right with a soft, confident expression.
+
+Camera Position: Eye-level to slightly below eye-level (approx. 1.5 meters / 5 feet from the ground), capturing the full body from head to toe.
+
+Composition: Full-body shot. The model is positioned slightly to the left of the frame's center, creating a balanced composition with negative space on the right. Ensure ample headroom and floor space. The garment should be clearly visible, with details like the zipper and hood prominent.
+
+Camera Setting: ISO 100, Aperture f/9, Shutter Speed 1/125s, White Balance custom set to studio lighting (approx. 5500K). Lens: 85mm prime.

@@ -1,0 +1,9 @@
+clothing：Model wears the dark gray high-neck jacket, paired with a fitted black turtleneck sweater, black straight-leg trousers, and black leather ankle boots.
+
+model_pose：Model stands facing the camera, with a confident, relaxed posture. Her left hand is casually placed in the jacket pocket, and her right arm hangs naturally by her side. Her head is slightly tilted, and she maintains a neutral, direct gaze towards the camera, conveying a sophisticated and approachable demeanor.
+
+Camera Position：Eye-level, full-body shot, positioned directly in front of the model. The camera should be far enough to capture the model from head to toe, with slight headroom and foot room.
+
+Composition：The model is centered in the frame, occupying approximately 70-80% of the vertical space. The plain light gray background provides a clean, minimalist setting, ensuring the focus remains entirely on the model and the clothing. The composition is balanced and uncluttered, emphasizing the garment's design and fit.
+
+Camera Setting：Soft, even studio lighting from the front and sides to illuminate the model and jacket without harsh shadows, highlighting the texture and details of the fabric. The background should be evenly lit to maintain its light gray tone, appearing seamless and without any discernible light sources or equipment. The overall image should be bright, sharp, and professional, consistent with high-end e-commerce product photography.

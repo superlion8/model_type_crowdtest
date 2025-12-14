@@ -1,0 +1,11 @@
+clothing：The product (beige off-shoulder knit top), high-waisted black wide-leg tailored trousers, sleek black leather ankle boots. Hair in a refined low bun, natural makeup.
+
+background：Seamless light greige studio paper background, clean and evenly lit.
+
+model_pose ：Standing, full body. Model facing slightly to the camera's right, head turned towards the camera, maintaining a composed, confident expression. Right hand gently resting on her left collarbone, subtly drawing attention to the off-shoulder detail and the garment's texture. Left arm relaxed by her side, showcasing the full length of the sleeve and the asymmetrical hem. Weight slightly shifted to one leg for a natural, relaxed yet elegant posture.
+
+Camera Position:Eye-level, approximately 3-4 meters from the model.
+
+Composition：Full body shot, model centered in the frame, ample clean space around to emphasize the product. The top's details and overall silhouette should be clearly visible.
+
+Camera Setting：Aperture f/9, ISO 100, Shutter Speed 1/160s, White Balance 5500K.

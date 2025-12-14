@@ -1,0 +1,11 @@
+clothing：The model wears the featured olive green shirt, paired with high-waisted black tailored trousers and black leather loafers. Minimalist silver stud earrings complete the look, maintaining a sophisticated and clean aesthetic.
+
+background：A seamless, light grey studio background, providing a clean and contemporary canvas that allows the product's color and texture to stand out without distraction.
+
+model_pose ：The model stands facing slightly left (3/4 view), with her head turned gently towards the camera, making subtle eye contact. Her left hand is casually placed in her trouser pocket, while her right arm hangs relaxed at her side, showcasing the full sleeve length and cuff of the shirt. A slight shift of weight to her right leg creates a natural, confident posture.
+
+Camera Position: Eye-level, positioned directly in front of the model to capture a full-body shot, ensuring the entire outfit is visible.
+
+Composition：Full-body shot with the model centered within the frame, allowing ample negative space above her head and below her feet. The composition is clean and balanced, emphasizing the garment's fit and design.
+
+Camera Setting：ISO 100, Aperture f/9, Shutter Speed 1/160s, White Balance set to 5500K (Daylight/Flash).

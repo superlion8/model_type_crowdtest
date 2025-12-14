@@ -1,0 +1,14 @@
+clothing：
+A light cream textured knit long-sleeve sweater, paired with the dark grey pleated mini skirt, and dark brown ankle boots.
+
+model_pose ：
+The model stands facing slightly towards the window, with one hand gently resting on the sheer curtain, looking thoughtfully out of the window. Her body is subtly turned to showcase the pleats of the skirt.
+
+Camera Position:
+Eye-level, positioned approximately 1.8 meters from the model.
+
+Composition：
+Full body shot, with the model placed on the right third of the frame. The window and sheer curtains behind her provide a soft, naturally lit backdrop, and the corner of the bed on the left adds depth without distracting.
+
+Camera Setting：
+Aperture: f/3.5, Shutter Speed: 1/125s, ISO: 200, White Balance: Daylight.

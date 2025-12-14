@@ -1,0 +1,11 @@
+clothing：Model wears the provided dark blue polka dot short-sleeve dress. Pair with clean white low-top sneakers for a casual, fresh look. No additional accessories are needed to keep the focus on the dress.
+
+background：Seamless studio background in a soft, light grey tone. The background should be completely clean and free of any visible studio equipment, appearing as a finished, smooth surface that complements the dress and model without distraction.
+
+model_pose ：Model stands with a relaxed yet confident posture. One leg is slightly bent and subtly crossed over the other, shifting weight to one hip. Her body is turned gently to a 3/4 view, with her head turned towards the camera, maintaining direct eye contact. One hand is casually placed on her hip, while the other arm hangs loosely at her side. Her expression is natural and inviting with a soft, subtle smile, effectively showcasing the comfortable fit and style of the dress.
+
+Camera Position: Eye-level, positioned directly in front of the model.
+
+Composition：Full body shot, with the model centered or slightly adhering to the rule of thirds. Ensure the entire dress and shoes are fully visible within the frame, with a small amount of clean space above her head and below her feet to avoid a cramped feeling.
+
+Camera Setting：Aperture: f/4.5, Shutter Speed: 1/160s, ISO: 100, White Balance: Studio Flash (or custom preset for accurate color rendition).

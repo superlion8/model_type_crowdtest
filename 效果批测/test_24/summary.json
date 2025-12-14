@@ -1,0 +1,26 @@
+{
+  "product": "test_24.png",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "复古"
+  },
+  "assets": {
+    "new_model": "white2.png",
+    "background": "2.png",
+    "old_model": "24.jpg"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

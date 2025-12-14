@@ -1,0 +1,11 @@
+clothing：Model wears the black velvet "Von Dutch" hooded zip-up jacket (unzipped, worn over the white off-shoulder top), the denim mini-skirt, pink platform heels, and holds the leopard print handbag. Hair is styled as in the original photo, maintaining a Y2K aesthetic, with natural makeup.
+
+background：Seamless studio background in a soft, muted grey-blue color, evenly lit and free of any visible studio equipment, creating a clean and modern aesthetic.
+
+model_pose ：Model stands full-body, facing slightly towards the camera (about a 3/4 turn). The black velvet jacket is worn open over the white top, allowing both the jacket's details and the top to be visible. One hand is casually placed in the denim skirt's front pocket, and the other hand holds the leopard print bag down by her side. Her head is slightly tilted, and she makes direct eye contact with the camera, conveying a confident and slightly playful expression. One leg is slightly bent at the knee, giving a relaxed yet stylish posture.
+
+Camera Position:Eye-level, approximately 1.5-2 meters away from the model, capturing a full-body shot.
+
+Composition：Full-body shot, with the model centered in the frame. Ample negative space above her head and below her feet, ensuring she fills roughly 70-80% of the vertical frame. The jacket's "Von Dutch" logo should be clearly visible.
+
+Camera Setting：**Lighting:** Soft, even studio lighting with a main light slightly off-axis to create subtle dimension, and a fill light to soften shadows. No harsh shadows. **Aperture:** f/5.6 - f/8. **Shutter Speed:** 1/160s - 1/200s. **ISO:** 100 - 200. **White Balance:** Custom white balance set to studio strobes.

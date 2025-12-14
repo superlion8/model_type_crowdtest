@@ -1,0 +1,11 @@
+clothing：Model wears the blue corduroy wide-leg pants. Pair with a sleek, fitted black turtleneck top. For footwear, black leather ankle boots with a moderate heel. Minimal accessories: simple stud earrings or a delicate silver watch.
+
+background：Seamless light grey backdrop, clean and untextured, providing a modern and sophisticated contrast to the vibrant blue pants.
+
+model_pose ：Model stands with a relaxed yet confident posture. One hand casually tucked into the front pocket of the pants, the other arm relaxed by her side. Her body is slightly angled, with one foot slightly in front of the other, allowing the wide leg of the pants to drape naturally and showcase the full silhouette. Head held high, looking directly at the camera with a composed, sophisticated expression.
+
+Camera Position: Eye-level with the model, approximately 2.5 meters away for a full-body shot.
+
+Composition：Full body shot. Model positioned slightly to the left of center, adhering to the rule of thirds, leaving ample negative space to the right. The pants should be the central focus, occupying a significant portion of the frame, from waist to hem, highlighting their cut and corduroy texture.
+
+Camera Setting：Aperture: f/9; Shutter Speed: 1/160s; ISO: 100; White Balance: Custom set to studio strobes (approx. 5500K). Lighting: Even, soft diffused lighting from two large softboxes positioned slightly to the front-sides of the model, with a subtle hair light from behind to add separation.

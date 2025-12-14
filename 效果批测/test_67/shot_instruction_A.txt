@@ -1,0 +1,6 @@
+clothing：i.t off-shoulder textured knit top, high-waisted black wide-leg trousers, black pointed-toe ankle boots with a subtle heel, minimalist silver chain necklace and simple silver rings.
+background：A dark charcoal grey concrete wall with subtle texture, providing a modern, slightly industrial yet sleek studio atmosphere.
+model_pose ：Model stands confidently, slightly angled to the camera, with one hand casually resting on her hip or subtly placed in a trouser pocket. The other arm is relaxed by her side, showcasing the off-shoulder design. Her weight is shifted slightly to one leg, creating a natural, relaxed curve. Her head is slightly turned towards the camera with a confident, direct gaze.
+Camera Position: Eye-level, approximately 1.8-2 meters from the model, for a full body shot.
+Composition：Full body shot, vertical orientation. The model is centered or slightly off-center, occupying approximately 70-75% of the frame height, with balanced negative space above and below her.
+Camera Setting：Aperture: f/4.5, Shutter Speed: 1/160s, ISO: 100. Lighting: Soft, even studio lighting from the front with a subtle fill light to enhance texture and dimension, ensuring no harsh shadows.

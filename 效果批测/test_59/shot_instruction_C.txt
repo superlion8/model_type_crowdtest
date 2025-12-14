@@ -1,0 +1,11 @@
+clothing: The beige fluffy cropped sweater. Paired with high-waisted, wide-leg tailored trousers in a light cream or off-white color. For footwear, elegant pointed-toe ballet flats in a matching cream or soft beige. Minimalist gold jewelry (small hoop earrings, delicate chain necklace) and natural, swept-back hair with soft, fresh makeup.
+
+background: A seamless, matte light greige studio backdrop, providing a soft, sophisticated neutral tone that complements the sweater without distracting.
+
+model_pose: The model stands with a relaxed, confident posture, slightly angled to the camera. One hand casually tucked into the pocket of the trousers, while the other arm is gently bent, with her hand lightly touching the textured fabric of the sweater near her waist, subtly highlighting the cropped nature and texture. Her gaze is soft and direct, or slightly off-camera, conveying a natural, chic confidence.
+
+Camera Position: Eye-level, full-body shot, centered on the model.
+
+Composition: Model centered, occupying approximately 70% of the frame vertically. Ample negative space around to maintain a clean aesthetic. The frame should cut just above the head and just below the feet, allowing for slight cropping flexibility.
+
+Camera Setting: Aperture at f/9 to f/11 for sharp focus on the entire outfit. Shutter speed at 1/160s to ensure crispness. ISO 100 for minimal noise. White Balance set to custom for studio strobes, ensuring accurate color reproduction of the beige sweater. Soft, diffused studio lighting to highlight the sweater's texture and details, with minimal harsh shadows.

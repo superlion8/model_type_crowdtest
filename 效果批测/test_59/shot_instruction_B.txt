@@ -1,0 +1,17 @@
+clothing：
+Top: The beige fluffy cropped sweater (the product).
+Bottom: A high-waisted white denim mini skirt.
+Shoes: White cowboy boots (similar to those worn by the model in the first image).
+Hair: Model's hair styled in two pigtails, as seen in the first image.
+
+model_pose ：
+Model stands facing the camera with a gentle, slightly smiling expression. One hand is lightly placed on her hip or gently touches the sweater, while the other arm is relaxed at her side. Her weight is shifted slightly to one leg, creating a subtle curve. The pose should convey a relaxed, sweet, and approachable mood, highlighting the texture and fit of the sweater.
+
+Camera Position:
+Full shot, slightly below eye-level, to capture the model's entire outfit and the atmospheric background.
+
+Composition：
+The model is positioned slightly off-center to the left, adhering to the rule of thirds. The fluffy sweater is the primary focal point. The soft pink elements at the bottom of the background are visible in the foreground, adding depth and complementing the outfit's color palette, without distracting from the model. Ample negative space above the model's head emphasizes the background's soft gradient.
+
+Camera Setting：
+Aperture: f/3.5 for a soft separation between the model and background. Shutter Speed: 1/160s to ensure sharpness. ISO: 100 for maximum image clarity. White Balance: Custom set to achieve accurate colors for the beige sweater and the lavender-pink background. Lighting: Soft, diffused, and even studio lighting to enhance the sweater's texture and create a bright, airy feel without harsh shadows.

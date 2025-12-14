@@ -1,0 +1,26 @@
+{
+  "product": "IMG_0874 2.JPG",
+  "style_analysis": {
+    "model_style": "普通素人",
+    "background_style": "复古"
+  },
+  "assets": {
+    "new_model": "Hispanic_20-30_female.png",
+    "background": "8.png",
+    "old_model": "41.png"
+  },
+  "results": {
+    "task_a": {
+      "success": true,
+      "error": null
+    },
+    "task_b": {
+      "success": true,
+      "error": null
+    },
+    "task_c": {
+      "success": true,
+      "error": null
+    }
+  }
+}

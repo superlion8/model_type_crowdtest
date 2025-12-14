@@ -1,0 +1,11 @@
+clothing：A crisp white crew-neck t-shirt, dark wash straight-leg jeans, and clean white minimalist sneakers. Model's hair naturally wavy, with delicate gold hoop earrings and a thin gold chain necklace.
+
+background：Seamless light warm grey studio background, perfectly smooth and evenly lit, creating a clean, premium, and uncluttered environment.
+
+model_pose ：Model standing confidently, facing slightly to the left (about 15-20 degrees from straight on), right hand casually inserted into the jacket's side pocket, left arm relaxed by her side. Head turned subtly towards the camera, maintaining a composed and natural expression. This pose highlights the jacket's fit, pockets, and overall silhouette.
+
+Camera Position: Eye-level to the model, approximately 8-10 feet away, ensuring a full-body shot that captures the entire outfit and the jacket's length.
+
+Composition：Full-body shot of the model, centered within the frame with adequate negative space above her head and below her feet. The jacket is the focal point, with its details (zipper, collar, pockets) clearly visible. The overall composition is balanced and clean.
+
+Camera Setting：Aperture: f/4.5; Shutter Speed: 1/160s; ISO: 100; White Balance: Custom (calibrated for studio strobes). Lighting: Large softbox as key light positioned slightly to the camera-right, feathered for soft, even illumination across the model and jacket. A smaller fill light directly opposite (camera-left) set at half power to gently lift shadows.

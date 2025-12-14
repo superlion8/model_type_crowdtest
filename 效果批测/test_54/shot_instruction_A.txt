@@ -1,0 +1,11 @@
+clothing：The model wears the brown/beige plaid cropped shirt as the main product. Pair it with high-waisted, light-wash straight-leg jeans and classic white sneakers. Accessorize with simple gold hoop earrings.
+
+background：Plain light beige seamless paper background, clean and uncluttered.
+
+model_pose ：Model stands facing slightly to the left, with her right shoulder subtly forward. Her right hand is casually tucked into the front pocket of her jeans, while her left arm is relaxed by her side. She maintains a confident, relaxed expression with a slight smile, looking directly into the camera.
+
+Camera Position: Eye-level, approximately 1.8 meters from the model.
+
+Composition：Full body shot of the model, positioned slightly off-center to the left according to the rule of thirds, allowing for negative space on the right.
+
+Camera Setting：Aperture: f/9, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom.

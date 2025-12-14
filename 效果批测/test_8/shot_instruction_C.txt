@@ -1,0 +1,11 @@
+clothing: The black polka dot cardigan with pink trim is styled over a pristine white silk camisole. High-waisted, tailored black wide-leg trousers complete the bottom half, paired with classic black leather pumps. Minimalist gold jewelry, including a delicate chain necklace and small stud earrings, adds a touch of sophistication. The model's long reddish-blonde hair is styled in soft, natural waves, parted slightly to the side. Makeup is natural and polished.
+
+background: A seamless, solid light grey paper backdrop, providing a clean, sophisticated, and neutral canvas that highlights the cardigan without distraction.
+
+model_pose: The model stands in a relaxed yet elegant posture, with a subtle shift in weight to her right leg, creating a gentle S-curve. She is slightly turned to her right (viewer's left) at a 3/4 angle, looking directly into the camera with a soft, confident expression. Her left hand is gently placed on her hip, while her right arm hangs naturally, allowing the cardigan to drape open gracefully and fully showcase the white camisole and pink trim underneath.
+
+Camera Position: Eye-level with the model, centered horizontally, approximately 1.8 meters from the subject.
+
+Composition: Full body shot, vertically centered, with generous negative space above the head and below the feet. The model occupies approximately 70-75% of the frame's vertical height, ensuring the entire outfit is clearly visible.
+
+Camera Setting: Aperture f/6.3 for sharp focus across the entire garment. Shutter speed 1/160s to prevent motion blur. ISO 100 for maximum image clarity and minimal noise. White balance custom set for studio lighting to ensure accurate color representation of the black, white, and pink tones.

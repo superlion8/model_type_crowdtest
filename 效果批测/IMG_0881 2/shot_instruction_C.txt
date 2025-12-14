@@ -1,0 +1,11 @@
+clothing: A fitted, fine-knit cream mock-neck long-sleeve top tucked into the blue corduroy wide-leg trousers. Paired with clean white minimalist leather sneakers.
+
+background: Seamless warm off-white studio background.
+
+model_pose: Model standing, slightly angled towards the camera. One hand gently placed in the trouser pocket, the other arm relaxed by her side. Her weight is subtly shifted to one leg, allowing the pleats and wide-leg cut of the trousers to drape naturally and be fully visible. Her gaze is soft and direct, conveying confidence and elegance.
+
+Camera Position: Eye-level, straight on, or very slightly low angle to elongate the model and emphasize the drape of the trousers.
+
+Composition: Full body shot, model centered, with adequate negative space above her head and below her feet for clean cropping and a minimalist aesthetic.
+
+Camera Setting: Aperture f/9, ISO 100, Shutter Speed 1/160s. White Balance set to 5500K. Soft, diffused studio lighting from large octaboxes or strip boxes on either side, slightly in front, to create even illumination, minimize harsh shadows, and beautifully render the corduroy texture.

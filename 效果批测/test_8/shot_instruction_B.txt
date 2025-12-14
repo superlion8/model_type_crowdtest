@@ -1,0 +1,9 @@
+clothing：Model wears the pink long-sleeved mini-dress with the ornate belt cinched at the waist. Over the dress, she wears the black cardigan with white polka dots and pink trim, leaving it unbuttoned to showcase the dress beneath. She wears the brown knee-high boots and carries the pink handbag.
+
+model_pose ：Model stands gracefully, slightly turned towards the camera with a confident yet playful expression. One hand is casually placed on her hip, holding the pink handbag, while the other hand gently touches her hair or the collar of the cardigan, allowing the cardigan to drape naturally and display its pattern. Her weight is shifted slightly to one leg, creating a relaxed and dynamic silhouette.
+
+Camera Position: Full body shot at eye-level or slightly below, capturing the model from head to toe, along with the foreground elements.
+
+Composition：The model is positioned slightly to the left of the frame's center, occupying approximately two-thirds of the vertical space. The pink velvet curtain fills the background, with its rich texture visible. The red vintage telephone and heart are clearly visible in the lower right foreground, balanced against the model's position. Ensure adequate headroom and foot room, showcasing the full extent of the outfit and the background setting.
+
+Camera Setting：Soft, even studio lighting without visible light sources, creating natural shadows and highlighting the textures of the clothing and background. Aperture: f/8-f/11 for sharp focus on the model and sufficient depth of field to keep the background elements clear but not distracting. Shutter Speed: 1/160s. ISO: 100. White Balance: Custom or Daylight to accurately render the pinks and blacks.

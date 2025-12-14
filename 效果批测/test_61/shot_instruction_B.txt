@@ -1,0 +1,9 @@
+clothing：Model wears the navy blue Polo Ralph Lauren jacket over a black turtleneck. Paired with black wide-leg trousers and dark brown ankle boots.
+
+model_pose ：Model stands with a relaxed posture, facing slightly to the left (3/4 view), with her head gently turned towards the camera. One hand casually rests in the jacket pocket, the other arm relaxed by her side. A confident, natural expression.
+
+Camera Position: Eye-level shot, positioned slightly to the right of the model, looking directly at her.
+
+Composition：Full body shot of the model, centered vertically within the frame, and positioned slightly to the left of the horizontal center. The turquoise corrugated wall fills the background behind her, with the dark concrete floor visible at the bottom of the frame, creating a clean, balanced composition.
+
+Camera Setting：Aperture f/4.5, Shutter Speed 1/160s, ISO 100. Soft, even natural light from the front-side, ensuring sharp focus on the model and the jacket, with balanced exposure across the scene.

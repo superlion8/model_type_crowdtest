@@ -1,0 +1,11 @@
+clothing：Model wears the black bomber jacket over the dark grey long-sleeved top, paired with black wide-leg trousers and dark brown ankle boots. The jacket's zipper is pulled up three-quarters of the way, revealing a subtle hint of the inner top.
+
+background：A seamless, slightly textured warm grey studio backdrop, providing a clean and minimalist environment. The background should be entirely free of any visible studio equipment or distractions, appearing as a finished product image.
+
+model_pose ：Model stands naturally, body slightly angled to the left (viewer's right), with her head gently turned towards the camera, maintaining a soft, confident gaze. One hand is casually placed in the jacket's side pocket, allowing the jacket to drape naturally, while the other arm hangs relaxed at her side, showcasing the jacket's relaxed fit and silhouette.
+
+Camera Position: Eye-level, approximately 2.5 meters from the model.
+
+Composition：Full body shot, with the model positioned centrally in the frame, ensuring ample headroom and foot room while allowing the entire outfit to be clearly visible.
+
+Camera Setting：Aperture: f/4.5, Shutter Speed: 1/160s, ISO: 100, White Balance: Custom (calibrated to studio lighting), Lens: 85mm.

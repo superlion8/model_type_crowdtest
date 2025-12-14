@@ -1,0 +1,9 @@
+clothing：The cream-colored long-sleeved blouse with a Peter Pan collar and lace detailing (the product), paired with a high-waisted pleated A-line skirt in a soft pastel lavender. Cream Mary Jane shoes with a low block heel. A small, structured light pink handbag. Delicate pearl stud earrings.
+
+model_pose ：Model is seated gracefully in the left floral armchair, angled slightly towards the camera. One hand rests naturally on her lap, gently showcasing the skirt, while the other hand is casually placed on the armrest. She has a soft, pleasant smile, looking gently towards the camera, creating an inviting and relaxed atmosphere. The blouse's collar and lace details are clearly visible.
+
+Camera Position:Eye-level with the model, slightly angled down to capture the full outfit and the armchair, emphasizing the cozy setting.
+
+Composition：The model in the left armchair is positioned according to the rule of thirds, occupying the left vertical third of the frame. The second floral armchair is partially visible on the right side, providing balance. The pink curtain backdrop fills the upper and middle background, with the patterned floor visible in the lower portion of the frame, ensuring a clean and aesthetically pleasing arrangement.
+
+Camera Setting：Aperture: f/3.5 - f/4.5 (to create a soft background blur while keeping the model and outfit sharp). Shutter Speed: 1/160 - 1/250 sec (to ensure sharpness). ISO: 100-200 (for minimal noise). White Balance: Custom or Daylight (to accurately render the pastel tones and cream color). Lighting: Soft, diffused natural-looking light, originating from the front-side, to illuminate the model evenly and highlight fabric textures without harsh shadows.
