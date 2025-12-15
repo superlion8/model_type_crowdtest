@@ -455,7 +455,7 @@
                 const data = await response.json();
                 products = shuffleArray(data);
                 
-                console.log(`加载了 ${products.length} 个商品`);
+                console.log(`✅ 版本 v3 - 加载了 ${products.length} 个商品`);
                 return products.length > 0;
             } catch (error) {
                 console.error('加载商品失败:', error);
@@ -551,6 +551,7 @@
         }
         
         function submitAnswer() {
+            console.log('🔵 submitAnswer 被调用');
             const product = products[currentIndex];
             
             const selectedVersions = [];
@@ -567,10 +568,13 @@
                 timestamp: new Date().toISOString()
             };
             
+            console.log('🔵 结果:', result);
             results.push(result);
             
             // 实时发送这一条结果
+            console.log('🔵 准备调用 sendSingleResult');
             sendSingleResult(result);
+            console.log('🔵 sendSingleResult 调用完成');
             
             currentIndex++;
             showCurrentTask();
