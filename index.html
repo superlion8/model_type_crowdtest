@@ -559,19 +559,43 @@
                 selectedVersions.push(VERSION_NAMES[originalIndex]);
             });
             
-            results.push({
+            const result = {
                 product: product.name,
                 shuffleOrder: currentShuffleMap.map(i => VERSION_NAMES[i]),
                 selected: noneSelected ? ['none'] : selectedVersions,
                 noneSelected: noneSelected,
                 timestamp: new Date().toISOString()
-            });
+            };
+            
+            results.push(result);
+            
+            // 实时发送这一条结果
+            sendSingleResult(result);
             
             currentIndex++;
             showCurrentTask();
         }
         
-        // 发送数据到 Google Sheets
+        // 实时发送单条结果
+        function sendSingleResult(result) {
+            if (!GOOGLE_SCRIPT_URL) return;
+            
+            const data = {
+                username: username,
+                timestamp: new Date().toISOString(),
+                totalProducts: products.length,
+                results: [result]  // 只发送这一条
+            };
+            
+            // 使用 Image beacon 方式 (最可靠，不受 CORS 限制)
+            const img = new Image();
+            const params = encodeURIComponent(JSON.stringify(data));
+            img.src = `${GOOGLE_SCRIPT_URL}?action=log&data=${params}&_t=${Date.now()}`;
+            
+            console.log('已发送:', result.product, result.selected);
+        }
+        
+        // 发送数据到 Google Sheets (使用 form 方式绕过 CORS)
         async function sendToGoogleSheets() {
             if (!GOOGLE_SCRIPT_URL) {
                 console.log('Google Sheets URL 未配置，跳过上传');
@@ -586,14 +610,31 @@
             };
             
             try {
-                const response = await fetch(GOOGLE_SCRIPT_URL, {
-                    method: 'POST',
-                    mode: 'no-cors',  // Google Apps Script 需要 no-cors
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify(data)
-                });
+                // 方法1: 使用 form 提交 (最可靠)
+                const form = document.createElement('form');
+                form.method = 'POST';
+                form.action = GOOGLE_SCRIPT_URL;
+                form.target = 'hidden_iframe';
+                
+                const input = document.createElement('input');
+                input.type = 'hidden';
+                input.name = 'data';
+                input.value = JSON.stringify(data);
+                form.appendChild(input);
+                
+                // 创建隐藏 iframe
+                let iframe = document.getElementById('hidden_iframe');
+                if (!iframe) {
+                    iframe = document.createElement('iframe');
+                    iframe.name = 'hidden_iframe';
+                    iframe.id = 'hidden_iframe';
+                    iframe.style.display = 'none';
+                    document.body.appendChild(iframe);
+                }
+                
+                document.body.appendChild(form);
+                form.submit();
+                document.body.removeChild(form);
                 
                 console.log('数据已发送到 Google Sheets');
                 return true;
