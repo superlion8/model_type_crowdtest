@@ -218,7 +218,41 @@
             aspect-ratio: 3/4;
             object-fit: cover;
             border-radius: 12px;
-            cursor: zoom-in;
+        }
+        
+        .image-wrapper {
+            position: relative;
+            display: inline-block;
+            width: 100%;
+        }
+        
+        .zoom-btn {
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            width: 36px;
+            height: 36px;
+            border: none;
+            border-radius: 50%;
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            opacity: 0.7;
+        }
+        
+        .zoom-btn:hover {
+            background: rgba(0, 0, 0, 0.85);
+            opacity: 1;
+            transform: scale(1.1);
+        }
+        
+        .product-wrapper {
+            display: block;
         }
         
         /* 图片放大灯箱 */
@@ -270,10 +304,6 @@
             font-size: 0.9rem;
         }
         
-        /* 商品图也支持放大 */
-        .product-image {
-            cursor: zoom-in;
-        }
         
         .none-option { text-align: center; margin-bottom: 2rem; }
         
@@ -421,8 +451,11 @@
         
         <div class="task-screen" id="task-screen">
             <div class="product-section">
-                <div class="product-label">商品原图 <span style="font-size:0.8em;opacity:0.6">(点击放大)</span></div>
-                <img class="product-image" id="product-image" src="" alt="商品图" onclick="openLightbox(this.src, event)">
+                <div class="product-label">商品原图</div>
+                <div class="image-wrapper product-wrapper">
+                    <img class="product-image" id="product-image" src="" alt="商品图">
+                    <button class="zoom-btn" onclick="openLightbox(document.getElementById('product-image').src, event)" title="放大查看">🔍</button>
+                </div>
             </div>
             
             <div class="question">
@@ -432,16 +465,25 @@
             
             <div class="options-grid" id="options-grid">
                 <div class="option-card" data-index="0" onclick="toggleOption(0)">
-                    <div class="option-label">图片 A <span style="font-size:0.7em;opacity:0.6">(点击图片放大)</span></div>
-                    <img class="option-image" id="option-0" src="" alt="选项A" onclick="openLightbox(this.src, event)">
+                    <div class="option-label">图片 A</div>
+                    <div class="image-wrapper">
+                        <img class="option-image" id="option-0" src="" alt="选项A">
+                        <button class="zoom-btn" onclick="openLightbox(document.getElementById('option-0').src, event)" title="放大查看">🔍</button>
+                    </div>
                 </div>
                 <div class="option-card" data-index="1" onclick="toggleOption(1)">
-                    <div class="option-label">图片 B <span style="font-size:0.7em;opacity:0.6">(点击图片放大)</span></div>
-                    <img class="option-image" id="option-1" src="" alt="选项B" onclick="openLightbox(this.src, event)">
+                    <div class="option-label">图片 B</div>
+                    <div class="image-wrapper">
+                        <img class="option-image" id="option-1" src="" alt="选项B">
+                        <button class="zoom-btn" onclick="openLightbox(document.getElementById('option-1').src, event)" title="放大查看">🔍</button>
+                    </div>
                 </div>
                 <div class="option-card" data-index="2" onclick="toggleOption(2)">
-                    <div class="option-label">图片 C <span style="font-size:0.7em;opacity:0.6">(点击图片放大)</span></div>
-                    <img class="option-image" id="option-2" src="" alt="选项C" onclick="openLightbox(this.src, event)">
+                    <div class="option-label">图片 C</div>
+                    <div class="image-wrapper">
+                        <img class="option-image" id="option-2" src="" alt="选项C">
+                        <button class="zoom-btn" onclick="openLightbox(document.getElementById('option-2').src, event)" title="放大查看">🔍</button>
+                    </div>
                 </div>
             </div>
             
