@@ -576,9 +576,14 @@
             showCurrentTask();
         }
         
-        // 实时发送单条结果 - 使用多种方式确保成功
+        // 实时发送单条结果
         function sendSingleResult(result) {
-            if (!GOOGLE_SCRIPT_URL) return;
+            if (!GOOGLE_SCRIPT_URL) {
+                console.error('❌ GOOGLE_SCRIPT_URL 未配置!');
+                return;
+            }
+            
+            console.log('📤 准备发送数据到:', GOOGLE_SCRIPT_URL);
             
             const data = {
                 username: username,
@@ -588,15 +593,23 @@
             };
             
             const jsonData = JSON.stringify(data);
+            console.log('📦 发送数据:', jsonData);
             
-            // 方法1: 使用 navigator.sendBeacon (最可靠)
-            if (navigator.sendBeacon) {
-                const blob = new Blob([jsonData], { type: 'text/plain' });
-                navigator.sendBeacon(GOOGLE_SCRIPT_URL, blob);
-                console.log('sendBeacon 发送:', result.product);
-            }
+            // 使用 fetch (支持查看响应)
+            fetch(GOOGLE_SCRIPT_URL, {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: {
+                    'Content-Type': 'text/plain',
+                },
+                body: jsonData
+            }).then(() => {
+                console.log('✅ fetch 请求已发送:', result.product);
+            }).catch(err => {
+                console.error('❌ fetch 失败:', err);
+            });
             
-            // 方法2: 备用 - 创建隐藏 form 提交
+            // 备用: form 提交
             try {
                 const form = document.createElement('form');
                 form.method = 'POST';
@@ -617,15 +630,14 @@
                 document.body.appendChild(form);
                 form.submit();
                 
-                // 清理
                 setTimeout(() => {
                     form.remove();
                     iframe.remove();
                 }, 5000);
                 
-                console.log('form 发送:', result.product);
+                console.log('✅ form 请求已发送:', result.product);
             } catch (e) {
-                console.error('form 发送失败:', e);
+                console.error('❌ form 发送失败:', e);
             }
         }
         
