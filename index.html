@@ -502,7 +502,9 @@
             // 显示打乱后的选项
             currentShuffleMap.forEach((originalIndex, displayIndex) => {
                 const version = product.versions[originalIndex];
-                const imgPath = `效果批测/${encodeURIComponent(product.name)}/${version.file}`;
+                // 从 productImage 路径提取文件夹路径
+                const folderPath = product.productImage.substring(0, product.productImage.lastIndexOf('/'));
+                const imgPath = `${folderPath}/${version.file}`;
                 document.getElementById(`option-${displayIndex}`).src = imgPath;
             });
             
