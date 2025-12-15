@@ -576,7 +576,7 @@
             showCurrentTask();
         }
         
-        // 实时发送单条结果
+        // 实时发送单条结果 - 使用多种方式确保成功
         function sendSingleResult(result) {
             if (!GOOGLE_SCRIPT_URL) return;
             
@@ -584,15 +584,49 @@
                 username: username,
                 timestamp: new Date().toISOString(),
                 totalProducts: products.length,
-                results: [result]  // 只发送这一条
+                results: [result]
             };
             
-            // 使用 Image beacon 方式 (最可靠，不受 CORS 限制)
-            const img = new Image();
-            const params = encodeURIComponent(JSON.stringify(data));
-            img.src = `${GOOGLE_SCRIPT_URL}?action=log&data=${params}&_t=${Date.now()}`;
+            const jsonData = JSON.stringify(data);
             
-            console.log('已发送:', result.product, result.selected);
+            // 方法1: 使用 navigator.sendBeacon (最可靠)
+            if (navigator.sendBeacon) {
+                const blob = new Blob([jsonData], { type: 'text/plain' });
+                navigator.sendBeacon(GOOGLE_SCRIPT_URL, blob);
+                console.log('sendBeacon 发送:', result.product);
+            }
+            
+            // 方法2: 备用 - 创建隐藏 form 提交
+            try {
+                const form = document.createElement('form');
+                form.method = 'POST';
+                form.action = GOOGLE_SCRIPT_URL;
+                form.target = 'data_iframe_' + Date.now();
+                form.style.display = 'none';
+                
+                const input = document.createElement('input');
+                input.type = 'hidden';
+                input.name = 'data';
+                input.value = jsonData;
+                form.appendChild(input);
+                
+                const iframe = document.createElement('iframe');
+                iframe.name = form.target;
+                iframe.style.display = 'none';
+                document.body.appendChild(iframe);
+                document.body.appendChild(form);
+                form.submit();
+                
+                // 清理
+                setTimeout(() => {
+                    form.remove();
+                    iframe.remove();
+                }, 5000);
+                
+                console.log('form 发送:', result.product);
+            } catch (e) {
+                console.error('form 发送失败:', e);
+            }
         }
         
         // 发送数据到 Google Sheets (使用 form 方式绕过 CORS)

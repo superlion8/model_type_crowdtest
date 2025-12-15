@@ -47,15 +47,27 @@ function doPost(e) {
   try {
     var data;
     
-    // 支持 form data 和 JSON 两种格式
+    Logger.log('doPost 收到请求');
+    Logger.log('parameter: ' + JSON.stringify(e.parameter));
+    Logger.log('postData type: ' + (e.postData ? e.postData.type : 'none'));
+    Logger.log('postData contents: ' + (e.postData ? e.postData.contents : 'none'));
+    
+    // 方式1: form data (input name="data")
     if (e.parameter && e.parameter.data) {
+      Logger.log('使用 form data 方式');
       data = JSON.parse(e.parameter.data);
-    } else if (e.postData && e.postData.contents) {
+    } 
+    // 方式2: sendBeacon 或 fetch (raw body)
+    else if (e.postData && e.postData.contents) {
+      Logger.log('使用 raw body 方式');
       data = JSON.parse(e.postData.contents);
-    } else {
+    } 
+    else {
+      Logger.log('未找到数据');
       throw new Error('No data received');
     }
     
+    Logger.log('解析数据成功: ' + JSON.stringify(data));
     saveData(data);
     
     return HtmlService.createHtmlOutput('<html><body><script>window.close();</script>OK</body></html>');
