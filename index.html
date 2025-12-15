@@ -506,10 +506,9 @@
             currentShuffleMap = shuffleArray([0, 1, 2]);
             
             // 显示打乱后的选项
+            const folderPath = product.productImage.substring(0, product.productImage.lastIndexOf('/'));
             currentShuffleMap.forEach((originalIndex, displayIndex) => {
                 const version = product.versions[originalIndex];
-                // 从 productImage 路径提取文件夹路径
-                const folderPath = product.productImage.substring(0, product.productImage.lastIndexOf('/'));
                 const imgPath = `${folderPath}/${version.file}`;
                 document.getElementById(`option-${displayIndex}`).src = imgPath;
             });
@@ -518,6 +517,25 @@
             selectedOptions.clear();
             noneSelected = false;
             updateSelectionUI();
+            
+            // 预加载下一题的图片
+            preloadNextTask();
+        }
+        
+        function preloadNextTask() {
+            const nextIndex = currentIndex + 1;
+            if (nextIndex >= products.length) return;
+            
+            const nextProduct = products[nextIndex];
+            const folderPath = nextProduct.productImage.substring(0, nextProduct.productImage.lastIndexOf('/'));
+            
+            // 预加载商品图
+            new Image().src = nextProduct.productImage;
+            
+            // 预加载3个版本图
+            nextProduct.versions.forEach(v => {
+                new Image().src = `${folderPath}/${v.file}`;
+            });
         }
         
         function toggleOption(displayIndex) {
@@ -551,7 +569,6 @@
         }
         
         function submitAnswer() {
-            console.log('🔵 submitAnswer 被调用');
             const product = products[currentIndex];
             
             const selectedVersions = [];
@@ -568,26 +585,24 @@
                 timestamp: new Date().toISOString()
             };
             
-            console.log('🔵 结果:', result);
             results.push(result);
-            
-            // 实时发送这一条结果
-            console.log('🔵 准备调用 sendSingleResult');
             sendSingleResult(result);
-            console.log('🔵 sendSingleResult 调用完成');
             
             currentIndex++;
-            showCurrentTask();
+            
+            // 立即更新进度条，给用户反馈
+            document.getElementById('progress-text').textContent = `${Math.min(currentIndex + 1, products.length)} / ${products.length}`;
+            document.getElementById('progress-fill').style.width = `${((currentIndex) / products.length) * 100}%`;
+            
+            // 使用 requestAnimationFrame 确保 UI 更新后再加载下一题
+            requestAnimationFrame(() => {
+                showCurrentTask();
+            });
         }
         
-        // 实时发送单条结果
+        // 实时发送单条结果 (只用 fetch，不重复发送)
         function sendSingleResult(result) {
-            if (!GOOGLE_SCRIPT_URL) {
-                console.error('❌ GOOGLE_SCRIPT_URL 未配置!');
-                return;
-            }
-            
-            console.log('📤 准备发送数据到:', GOOGLE_SCRIPT_URL);
+            if (!GOOGLE_SCRIPT_URL) return;
             
             const data = {
                 username: username,
@@ -596,53 +611,17 @@
                 results: [result]
             };
             
-            const jsonData = JSON.stringify(data);
-            console.log('📦 发送数据:', jsonData);
-            
-            // 使用 fetch (支持查看响应)
+            // 使用 fetch 发送
             fetch(GOOGLE_SCRIPT_URL, {
                 method: 'POST',
                 mode: 'no-cors',
-                headers: {
-                    'Content-Type': 'text/plain',
-                },
-                body: jsonData
+                headers: { 'Content-Type': 'text/plain' },
+                body: JSON.stringify(data)
             }).then(() => {
-                console.log('✅ fetch 请求已发送:', result.product);
+                console.log('✅ 已发送:', result.product);
             }).catch(err => {
-                console.error('❌ fetch 失败:', err);
+                console.error('❌ 发送失败:', err);
             });
-            
-            // 备用: form 提交
-            try {
-                const form = document.createElement('form');
-                form.method = 'POST';
-                form.action = GOOGLE_SCRIPT_URL;
-                form.target = 'data_iframe_' + Date.now();
-                form.style.display = 'none';
-                
-                const input = document.createElement('input');
-                input.type = 'hidden';
-                input.name = 'data';
-                input.value = jsonData;
-                form.appendChild(input);
-                
-                const iframe = document.createElement('iframe');
-                iframe.name = form.target;
-                iframe.style.display = 'none';
-                document.body.appendChild(iframe);
-                document.body.appendChild(form);
-                form.submit();
-                
-                setTimeout(() => {
-                    form.remove();
-                    iframe.remove();
-                }, 5000);
-                
-                console.log('✅ form 请求已发送:', result.product);
-            } catch (e) {
-                console.error('❌ form 发送失败:', e);
-            }
         }
         
         // 发送数据到 Google Sheets (使用 form 方式绕过 CORS)
