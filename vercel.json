@@ -1,17 +1,7 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "headers": {
-        "cache-control": "public, max-age=31536000, immutable"
-      },
-      "continue": true
-    }
-  ],
   "headers": [
     {
-      "source": "/效果批测/(.*)",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -21,4 +11,3 @@
     }
   ]
 }
-
