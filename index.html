@@ -218,6 +218,61 @@
             aspect-ratio: 3/4;
             object-fit: cover;
             border-radius: 12px;
+            cursor: zoom-in;
+        }
+        
+        /* 图片放大灯箱 */
+        .lightbox {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 9999;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            cursor: zoom-out;
+        }
+        
+        .lightbox.active {
+            display: flex;
+        }
+        
+        .lightbox-image {
+            max-width: 90%;
+            max-height: 85vh;
+            object-fit: contain;
+            border-radius: 8px;
+            box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+        }
+        
+        .lightbox-close {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            font-size: 40px;
+            color: white;
+            cursor: pointer;
+            opacity: 0.8;
+            transition: opacity 0.2s;
+        }
+        
+        .lightbox-close:hover {
+            opacity: 1;
+        }
+        
+        .lightbox-hint {
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 1rem;
+            font-size: 0.9rem;
+        }
+        
+        /* 商品图也支持放大 */
+        .product-image {
+            cursor: zoom-in;
         }
         
         .none-option { text-align: center; margin-bottom: 2rem; }
@@ -366,8 +421,8 @@
         
         <div class="task-screen" id="task-screen">
             <div class="product-section">
-                <div class="product-label">商品原图</div>
-                <img class="product-image" id="product-image" src="" alt="商品图">
+                <div class="product-label">商品原图 <span style="font-size:0.8em;opacity:0.6">(点击放大)</span></div>
+                <img class="product-image" id="product-image" src="" alt="商品图" onclick="openLightbox(this.src, event)">
             </div>
             
             <div class="question">
@@ -377,16 +432,16 @@
             
             <div class="options-grid" id="options-grid">
                 <div class="option-card" data-index="0" onclick="toggleOption(0)">
-                    <div class="option-label">图片 A</div>
-                    <img class="option-image" id="option-0" src="" alt="选项A">
+                    <div class="option-label">图片 A <span style="font-size:0.7em;opacity:0.6">(点击图片放大)</span></div>
+                    <img class="option-image" id="option-0" src="" alt="选项A" onclick="openLightbox(this.src, event)">
                 </div>
                 <div class="option-card" data-index="1" onclick="toggleOption(1)">
-                    <div class="option-label">图片 B</div>
-                    <img class="option-image" id="option-1" src="" alt="选项B">
+                    <div class="option-label">图片 B <span style="font-size:0.7em;opacity:0.6">(点击图片放大)</span></div>
+                    <img class="option-image" id="option-1" src="" alt="选项B" onclick="openLightbox(this.src, event)">
                 </div>
                 <div class="option-card" data-index="2" onclick="toggleOption(2)">
-                    <div class="option-label">图片 C</div>
-                    <img class="option-image" id="option-2" src="" alt="选项C">
+                    <div class="option-label">图片 C <span style="font-size:0.7em;opacity:0.6">(点击图片放大)</span></div>
+                    <img class="option-image" id="option-2" src="" alt="选项C" onclick="openLightbox(this.src, event)">
                 </div>
             </div>
             
@@ -401,6 +456,13 @@
                     下一题 →
                 </button>
             </div>
+        </div>
+        
+        <!-- 图片放大查看模态框 -->
+        <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+            <span class="lightbox-close">&times;</span>
+            <img class="lightbox-image" id="lightbox-image" src="" alt="放大图片">
+            <div class="lightbox-hint">点击任意处关闭</div>
         </div>
         
         <div class="results-screen" id="results-screen">
@@ -754,6 +816,26 @@
             document.getElementById('progress-container').style.display = 'none';
             document.getElementById('start-screen').style.display = 'block';
         }
+        
+        // 图片放大功能
+        function openLightbox(src, event) {
+            event.stopPropagation(); // 阻止触发选择
+            document.getElementById('lightbox-image').src = src;
+            document.getElementById('lightbox').classList.add('active');
+            document.body.style.overflow = 'hidden'; // 禁止背景滚动
+        }
+        
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.remove('active');
+            document.body.style.overflow = ''; // 恢复滚动
+        }
+        
+        // ESC 键关闭
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeLightbox();
+            }
+        });
     </script>
 </body>
 </html>
